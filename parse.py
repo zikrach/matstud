@@ -63,16 +63,35 @@ class MatStud(object):
             text = bs4.BeautifulSoup(str(arg).strip('&nbsp;'))
             author = [arg for arg in text.findAll('i')]
             href = [arg for arg in text.find_all('a')]
-            author = author[0].contents[0]
-            title = href[0].contents[0]
-            start_page = href[1].contents[0]
-            ref_article = href[1].get('href')
+            for arg in author:
+                author = arg.contents[0]
+            for arg in href:
+                title = href[0].contents[0]
+                start_page = href[1].contents[0]
+                ref_article = href[1].get('href')
             yield author, title, start_page, ref_article
 
 
 if __name__ == "__main__":
     site_address = "http://matstud.org.ua/index.php/MatStud/issue/archive"
     site = MatStud(site_address)
-    site_address = site.get_volume_link(32, 1)
-    print(site_address)
-    print(list(site.get_content_volume(32, 1)))
+    #site_address = site.get_volume_link(32, 2)
+    #print(site_address)
+    error_number = []
+    for volume in range(1, 7):
+        try:
+            print(volume, list(site.get_content_volume(volume)))
+        except IndexError:
+            print("Помилка при обробці журналу Т.", volume)
+            error_number += volume
+    for volume in range(7, 41):
+        for number in range(1, 3):
+            try:
+                print(volume, number,
+                      list(site.get_content_volume(volume,number)))
+            except IndexError:
+                print("Помилка при обробці журналу Т.", volume, " No.", number)
+                error_number += [(volume, number)]
+            except InputError as Exc:
+                print(Exc.message, volume, " No.", number)
+    print(error_number)
