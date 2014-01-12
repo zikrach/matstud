@@ -59,8 +59,6 @@ class MatStud(object):
             raise InputError(volume, "Невірний том журналу!")
 
     def get_content_volume(self, volume, number=1):
-        #TODO: Поправити помилки при опрацюванні
-        #[(9, 2), (10, 2), (20, 2), (32, 2), (33, 2), (34, 2)]
         """"Функція повертає зміст номеру журналу"""
         html_volume = urlopen(self.get_volume_link(volume, number)).read()
         soup = bs4.BeautifulSoup(html_volume)
@@ -80,8 +78,8 @@ class MatStud(object):
     def get_content_volume_error(self):
         for vol, num, href in self.get_all_volume_link():
             try:
-               list(site.get_content_volume(vol,num))
-               print("T. %s,  No. %s \t OK!" % (vol, num))
+                content = list(site.get_content_volume(vol, num))
+                print("T. %s,  No. %s \t OK!\t ref=%s" % (vol, num, href))
             except IndexError:
                 print("Помилка при обробці журналу Т.", vol, " No.", num)
                 if vol < 7:
@@ -96,4 +94,4 @@ if __name__ == "__main__":
     #site_address = site.get_volume_link(32, 2)
     #print(list(site.get_all_volume_link()))
     print(list(site.get_content_volume_error()))
-    #print(list(site.get_content_volume(33, 2)))
+    #print(list(site.get_content_volume(3)))

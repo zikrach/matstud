@@ -1,0 +1,41 @@
+body{
+    background-color: #f5f5f5;
+}
+
+table{
+    padding: 1px;
+    margin: auto;
+    width: 900px;
+    background-color: #ffffff;
+    align-self: center;
+}
+
+td{
+    padding: 2px;
+    margin: 5px;
+    color: #00008f;
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+}
+
+.left{
+    background-color: #3b8be4;
+    text-align: center;
+}
+
+.right{
+    background-color: #d2e4fa;
+}
+
+.journal, .ref, .ref_abstract, .references{
+    font-weight: bold;
+}
+
+
+.author{
+    font-size: large;
+    font-weight: bold;
+}
+
+.email, .work{
+    font-style: italic;
+}
