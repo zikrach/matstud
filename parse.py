@@ -37,24 +37,30 @@ class MatStud(object):
         list_volume = [arg for arg in soup.find_all('a')]
         for arg in list_volume:
             if 'V.' in arg.contents[0]:
-                yield arg.contents[0], arg.get('href')
+                journal = str(arg.contents[0]).split(',')
+                volume = int(journal[0][2:])
+                number = 1
+                if volume > 6:
+                    number = int(journal[1][3:])
+                yield volume, number, arg.get('href')
 
     def get_volume_link(self, volume, number=1):
         """Функція вертає посилання на том volume, номер number журналу"""
         if number not in [1, 2]:
             raise InputError(number, "Невірний номер журналу!")
-        for vol, href in self.get_all_volume_link():
+        for vol, num, href in self.get_all_volume_link():
             if volume > 6:
-                name = str(vol).split(",")
-                if str(volume) in name[0] and str(number) in name[1]:
+                if vol == volume and num == number:
                     return href
             else:
-                if str(volume) in vol:
+                if volume == vol:
                     return href
         else:
             raise InputError(volume, "Невірний том журналу!")
 
     def get_content_volume(self, volume, number=1):
+        #TODO: Поправити помилки при опрацюванні
+        #[(9, 2), (10, 2), (20, 2), (32, 2), (33, 2), (34, 2)]
         """"Функція повертає зміст номеру журналу"""
         html_volume = urlopen(self.get_volume_link(volume, number)).read()
         soup = bs4.BeautifulSoup(html_volume)
@@ -71,27 +77,21 @@ class MatStud(object):
                 ref_article = href[1].get('href')
             yield author, title, start_page, ref_article
 
+    def get_content_volume_error(self):
+        for vol, num, href in self.get_all_volume_link():
+            try:
+               list(site.get_content_volume(vol,num))
+            except IndexError:
+                print("Помилка при обробці журналу Т.", vol, " No.", num)
+                if vol < 7:
+                    yield vol
+                else:
+                    yield [vol, num]
+
 
 if __name__ == "__main__":
     site_address = "http://matstud.org.ua/index.php/MatStud/issue/archive"
     site = MatStud(site_address)
     #site_address = site.get_volume_link(32, 2)
-    #print(site_address)
-    error_number = []
-    for volume in range(1, 7):
-        try:
-            print(volume, list(site.get_content_volume(volume)))
-        except IndexError:
-            print("Помилка при обробці журналу Т.", volume)
-            error_number += volume
-    for volume in range(7, 41):
-        for number in range(1, 3):
-            try:
-                print(volume, number,
-                      list(site.get_content_volume(volume,number)))
-            except IndexError:
-                print("Помилка при обробці журналу Т.", volume, " No.", number)
-                error_number += [(volume, number)]
-            except InputError as Exc:
-                print(Exc.message, volume, " No.", number)
-    print(error_number)
+    print(list(site.get_all_volume_link()))
+    print(list(site.get_content_volume_error()))
