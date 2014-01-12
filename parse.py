@@ -81,6 +81,7 @@ class MatStud(object):
         for vol, num, href in self.get_all_volume_link():
             try:
                list(site.get_content_volume(vol,num))
+               print("T. %s,  No. %s \t OK!" % (vol, num))
             except IndexError:
                 print("Помилка при обробці журналу Т.", vol, " No.", num)
                 if vol < 7:
@@ -93,5 +94,6 @@ if __name__ == "__main__":
     site_address = "http://matstud.org.ua/index.php/MatStud/issue/archive"
     site = MatStud(site_address)
     #site_address = site.get_volume_link(32, 2)
-    print(list(site.get_all_volume_link()))
+    #print(list(site.get_all_volume_link()))
     print(list(site.get_content_volume_error()))
+    #print(list(site.get_content_volume(33, 2)))
