@@ -64,16 +64,22 @@ class MatStud(object):
         soup = bs4.BeautifulSoup(html_volume)
         html_content = soup.findAll('tr')
         for arg in html_content[3:]:
+            author = ""
+            title = ""
+            start_page = 0
+            ref_article = ""
             text = bs4.BeautifulSoup(str(arg).strip('&nbsp;'))
-            author = [arg for arg in text.findAll('i')]
-            href = [arg for arg in text.find_all('a')]
-            for arg in author:
-                author = arg.contents[0]
-            for arg in href:
-                title = href[0].contents[0]
-                start_page = href[1].contents[0]
-                ref_article = href[1].get('href')
-            yield author, title, start_page, ref_article
+            if text.i:
+                if text.i.string == " ":
+                    author = ""
+                else:
+                    author = text.i.string
+                href = [arg for arg in text.find_all('a')]
+                for arg in href:
+                    title = str(href[0].contents[0]).strip('/\n')
+                    start_page = href[1].contents[0]
+                    ref_article = href[1].get('href')
+                yield author, title, start_page, ref_article
 
     def get_content_volume_error(self):
         for vol, num, href in self.get_all_volume_link():
@@ -87,11 +93,49 @@ class MatStud(object):
                 else:
                     yield [vol, num]
 
+    def get_article_content(self, volume, number):
+        for url in self.get_content_volume(volume, number):
+            article = self.get_volume_link(volume, number)[:-9] + url[3]
+            text_url = article[:-4] + 'pdf'
+            try:
+                html_article = urlopen(article).read()
+                html = bs4.BeautifulSoup(html_article)
+            except Exception:
+                print("Не можу відкрити адресу", article)
+                html = bs4.BeautifulSoup("<html><head></head>"
+                                         "<body></body></html>")
+            title = url[1].replace('\n', ' ')
+            if url[0]:
+                authors = str(url[0]).split(',')
+            else:
+                authors = ""
+            keywords = ""
+            if html.keyword:
+                if html.keyword.string:
+                    keywords = html.keyword.string.split(';')
+            abstract = ""
+            if html.abstract:
+                if html.abstract.string:
+                    abstract = html.abstract.string.replace('\n', ' ')
+            yield title, authors, keywords, abstract, text_url
+
+    def get_article_content_error(self, volume_min, volume_max):
+        for volume in range(volume_min, volume_max + 1):
+            for number in [1, 2]:
+                print("T. %s,  No. %s" % (volume, number))
+                try:
+                    content = list(site.get_article_content(volume, number))
+                    print("OK!")
+                except TypeError:
+                    print("Error parsing T. %s,  No. %s" % (volume,
+                                                            number))
+                    yield [volume, number]
+                    raise
+                except InputError:
+                    print("Не існуючий номер T. %s,  No. %s" % (volume,
+                                                                number))
 
 if __name__ == "__main__":
     site_address = "http://matstud.org.ua/index.php/MatStud/issue/archive"
     site = MatStud(site_address)
-    #site_address = site.get_volume_link(32, 2)
-    #print(list(site.get_all_volume_link()))
-    print(list(site.get_content_volume_error()))
-    #print(list(site.get_content_volume(3)))
+    print(list(site.get_article_content_error(36, 40)))
