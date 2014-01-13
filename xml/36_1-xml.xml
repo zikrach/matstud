@@ -1,0 +1,241 @@
+<?xml version='1.0' encoding='utf-8'?>
+<records>
+  <record>
+    <title>Kaleidoscopical graphs and semigroups</title>
+    <authors>
+      <author>Protasova K. D. </author>
+    </authors>
+    <startPage>3</startPage>
+    <endPage>5</endPage>
+    <keywords>
+      <keyword>graphs</keyword>
+      <keyword>semigroups </keyword>
+    </keywords>
+    <abstract>We give a semigroup characterization of kaleidoscopical graphs. A connected graph Г (considered as a metric space with the path metric) is called kaleidoscopical if there is a vertex coloring of Г which is bijective on each unit ball.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/36_1/3-5.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Regular subgraphs of linear extension graphs</title>
+    <authors>
+      <author>Bondarenko O. S. </author>
+    </authors>
+    <startPage>6</startPage>
+    <endPage>11</endPage>
+    <keywords>
+      <keyword>graph</keyword>
+      <keyword>regularity</keyword>
+      <keyword>linear extension </keyword>
+    </keywords>
+    <abstract>The paper deals with the properties of regular subgraphs of linear extension graphs. We obtain a necessary and sufficient condition for regularity of linear extension graphs, prove a pro- position on cardinality and degree partition of special linear extension graphs boundaries, give a characterization of a linear extension graphs class with 0 or 1 bump numbers linear extensions.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/36_1/6-11.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Monic divisors with canonical diagonal form $diag(1,...,1, \psi(x),...,\psi(x))$ of polynomial matrices over infinite field (in Ukrainian)</title>
+    <authors>
+      <author>Romaniv A. M. </author>
+    </authors>
+    <startPage>12</startPage>
+    <endPage>20</endPage>
+    <keywords>
+      <keyword>Monic divisor</keyword>
+      <keyword>infinite field</keyword>
+      <keyword>canonical diagonal form </keyword>
+    </keywords>
+    <abstract>Necessary and sufficient conditions existence of monic divisors  with canonical diagonal form $\mathop{\rm diag}(1,\ldots ,1 ,\varphi (x),\ldots ,  \varphi (x))$ of polynomial matrices  over infinite field established.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/36_1/12-20.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>On equidistant pseudo-riemannian spaces (in Ukrainian)</title>
+    <authors>
+      <author>Kiosak V. A. </author>
+    </authors>
+    <startPage>21</startPage>
+    <endPage>25</endPage>
+    <keywords>
+      <keyword>pseudo-riemannian space</keyword>
+      <keyword>tensor characteristic </keyword>
+    </keywords>
+    <abstract>Paper treats special pseudo-Riemannian spaces | equidistant manifolds. Author found tensor characteristic necessary and sufficient condition for a space to admit exactly n - 2 equidistant vector field. Research was carried out locally, in a tensor form, without any limitation of signature of studied spaces.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/36_1/21-25.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Regular extension operators for partial fuzzy (pseudo)metrics</title>
+    <authors>
+      <author>Savchenko A. </author>
+    </authors>
+    <startPage>26</startPage>
+    <endPage>30</endPage>
+    <keywords>
+      <keyword>fuzzy (pseudo)metrics</keyword>
+      <keyword>probability measure</keyword>
+      <keyword>metrizable space </keyword>
+    </keywords>
+    <abstract>Using the fuzzy modification of the Prokhorov metric on the set of probability measures we prove the theorem on existence of simultaneous extensions of partial fuzzy metrics (for the  Lukasiewicz t-norm) defined on closed subsets of a compact metrizable space.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/36_1/26-30.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>A right Bezout ring with stable range 2, over which transpose matrix to invertible matrix is invertible, is the right Hermite ring (in Ukrainian)</title>
+    <authors>
+      <author>Domsha I. V. </author>
+    </authors>
+    <startPage>31</startPage>
+    <endPage>33</endPage>
+    <keywords>
+      <keyword>Bezout ring with stable range 2</keyword>
+      <keyword>right Hermite ring </keyword>
+    </keywords>
+    <abstract>It is proved that a right Bezout ring with stable range 2, over which transpose matrix to invertible matrix is invertible matrix, is the right Hermite ring.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/36_1/31-33.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>On representation matrices of Kaloujnine’s 2-groups (in Russian)</title>
+    <authors>
+      <author>Leonov Yu. G. </author>
+    </authors>
+    <startPage>34</startPage>
+    <endPage>39</endPage>
+    <keywords>
+      <keyword>Kaloujnine's 2-group</keyword>
+      <keyword>image </keyword>
+    </keywords>
+    <abstract>Images of the faithful triangular representation of Kaloujnine's 2-groups are obtained.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/36_1/34-39.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>The Nevanlinna characteristic and maximum modulus of entire functions of finite order with random zeros (in Ukrainian)</title>
+    <authors>
+      <author>Zakharko Yu. B.</author>
+      <author>Filevych P. V. </author>
+    </authors>
+    <startPage>40</startPage>
+    <endPage>50</endPage>
+    <keywords>
+      <keyword>entire function of finite order</keyword>
+      <keyword>Nevanlinna characteristic</keyword>
+      <keyword>independent random variables </keyword>
+    </keywords>
+    <abstract>Let $(r_n)$ be a positive nondecreasing sequence of finite genus tending to $+\infty$, and $(\eta_n(\omega))$ be a sequence of independent random variables such that $\eta_n(\omega)$ are uniformly distributed on the circles $|z|=r_n$. Then for almost all $\omega$ the following assertion holds: if $f$ is an entire function of finite order with zeros at the points $\eta_n(\omega)$ and only at them, then for every $\varepsilon&gt;0$ we have $\ln M_f(r)=o(T_f^{3/2}(r)\ln^{3+\varepsilon} T_f(r))$, $r\to+\infty$, where $M_f(r)$ is the maximum modulus and $T_f(r)$ is the Nevanlinna characteristic of the function $f$.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/36_1/40-50.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>On domains of convergence of multiple random Dirichlet series .</title>
+    <authors>
+      <author>Skaskiv I. B.</author>
+      <author>Zadorozhna O. Yu. </author>
+    </authors>
+    <startPage>51</startPage>
+    <endPage>57</endPage>
+    <keywords>
+      <keyword>domain of convergence</keyword>
+      <keyword>multiple random Dirichlet
+series </keyword>
+    </keywords>
+    <abstract>We establish relations between domains of convergence and absolute convergence of the multiple random Dirichlet series.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/36_1/51-57.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>On the relation between the Lebesgue integral means and Nevanlinna characteristic of analytic functions in the unit disc</title>
+    <authors>
+      <author>Vasyl’kiv Ya. V.</author>
+      <author>Korenivs’ka O. Z. </author>
+    </authors>
+    <startPage>58</startPage>
+    <endPage>64</endPage>
+    <keywords>
+      <keyword>Nevanlinna characteristic</keyword>
+      <keyword>analytic functions in the unit disc</keyword>
+    </keywords>
+    <abstract>The best possible asymptotic estimates for Lebesgue integral means $m_{p}(r,\log f), 1 \leq p$ of logarithms of analytic functions $f(z)$ in the unit disc in terms of their Nevanlinna characteristic $T(r,f)$ are obtained. We get sharp relation between the order of $T(r,f)$ and the order of $m_{p}(r,\log f)$ for an analytic function  $f(z)$ of finite order $\alpha(f).$ This generalizes well-known results of L.~R.~Sons and C.~N.~Linden.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/36_1/58-64.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Nevanlinna characteristics of sequences of meromorphic functions and Julia’s exceptional functions</title>
+    <authors>
+      <author>Khrystiyanyn A. Ya.</author>
+      <author>Khylynska O. B.</author>
+      <author>Kondratyuk A. A. </author>
+    </authors>
+    <startPage>65</startPage>
+    <endPage>72</endPage>
+    <keywords>
+      <keyword>Nevanlinna
+characteristics</keyword>
+      <keyword>Julia's exceptional functions </keyword>
+    </keywords>
+    <abstract>Uniformly convergent sequences of meromorphic functions in the Caratheodory-Landau sense on annuli are considered. We prove that the sequences of their Nevanlinna type characteristics converge uniformly on intervals. The result is applied to the study of the Nevanlinna characteristics of Julia's exceptional functions.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/36_1/65-72.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>On growth majorants of subharmonic functions</title>
+    <authors>
+      <author>Protsyk Yu. S.</author>
+      <author>Vasyl’kiv Ya. V. </author>
+    </authors>
+    <startPage>73</startPage>
+    <endPage>76</endPage>
+    <keywords>
+      <keyword>subharmonic function</keyword>
+      <keyword>growth majorants </keyword>
+    </keywords>
+    <abstract>We describe growth majorants of subharmonic in $\mathbb{R}^m\ (m\ge2)$ functions. To do this, we exceptionally reduce the problem to problems in the theory of positive monotonous functions.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/36_1/73-76.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Solvability and completeness of solutions of parabolic differential- operator equations</title>
+    <authors>
+      <author>Mamedov M. M. </author>
+    </authors>
+    <startPage>77</startPage>
+    <endPage>85</endPage>
+    <keywords>
+      <keyword>Cauchy problem for parabolic differential-operator equations</keyword>
+      <keyword>boundary value problem</keyword>
+    </keywords>
+    <abstract>We consider an abstract Cauchy problem for parabolic differential-operator equations in Hilbert spaces. Initial boundary value problems for parabolic equations are reduced to the Cauchy problem for a system of parabolic differential equations. It is proved that the solution of an initial boundary value problem for partial parabolic equation can be approximated by linear combinations of elementary solutions. Completeness of elementary solutions is also proved for differential-operator equations in abstract Hilbert spaces. The obtained abstract results are applied to differential equations.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/36_1/77-85.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Epi-lower semicontinuous mappings and their properties (in Ukrainian)</title>
+    <authors>
+      <author>Dovzhenko A. V.</author>
+      <author>Kogut P. I. </author>
+    </authors>
+    <startPage>86</startPage>
+    <endPage>96</endPage>
+    <keywords>
+      <keyword>epi-semicontinuity</keyword>
+      <keyword>vector-valued mappings </keyword>
+    </keywords>
+    <abstract>We present a new concept of lower semicontinuity for vector-valued mappings, so-called lower epi-semicontinuity, which is closely related with the sequential closedness of epigraphs of these mappings. We consider the case when the mappings take values in a real Banach space Y partially ordered by a closed convex pointed cone L, and we make no additional assumptions on topological interior of the ordering cone. We also study the comparison of the lower  epi-semicontinuity with the classical notion of lower semicontinuity and its generalizations.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/36_1/86-96.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Hahn’s functions and Baire classifications (in Ukrainian)</title>
+    <authors>
+      <author>Hlushko H. A.</author>
+      <author>Maslyuchenko V. K. </author>
+    </authors>
+    <startPage>97</startPage>
+    <endPage>106</endPage>
+    <keywords>
+      <keyword>Baire classification</keyword>
+      <keyword>local convex space </keyword>
+    </keywords>
+    <abstract>Hahn’s results about Baire classifications the real values separately continuous functions are moved on the functions with values in arbitrary local convex spaces.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/36_1/97-106.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Diadic Baire space and continuity of weakly quasicontinuous maps (in Ukrainian)</title>
+    <authors>
+      <author>Maslyuchenko O. V. </author>
+    </authors>
+    <startPage>107</startPage>
+    <endPage>112</endPage>
+    <keywords>
+      <keyword>Choquet game</keyword>
+      <keyword>diadic Baire space </keyword>
+    </keywords>
+    <abstract>We introduce some diadic analogue of the Choquet game and  a class of diadic Baire spaces which is a subclass of Baire spaces and  is wider then the class Choquet spaces.  We prove that for any diadic Baire space  $X$, a Banach space  $Y$, a countable Asplund$^*$ norming set $E\subseteq Y^*$ and for every map $\varphi\colon X\to Y$, such that $z\varphi$ is quasi-continuous for any $z\in E$, the discontinuity point set $C(\varphi)$ is residual.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/36_1/107-112.pdf</fullTextUrl>
+  </record>
+</records>

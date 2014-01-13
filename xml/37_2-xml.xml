@@ -1,0 +1,238 @@
+<?xml version='1.0' encoding='utf-8'?>
+<records>
+  <record>
+    <title>A description of the two-dimensional representations of the dihedral group over the commutative local rings (in Ukrainian)</title>
+    <authors>
+      <author>Petechuk Yu. V. </author>
+    </authors>
+    <startPage>115</startPage>
+    <endPage>131</endPage>
+    <keywords>
+      <keyword>commutative local ring</keyword>
+      <keyword>dihedral group</keyword>
+      <keyword>two-dimensional images</keyword>
+      <keyword>irreducibility </keyword>
+    </keywords>
+    <abstract>The full description of the two-dimensional representations of the dihedral group  $D_{m} =\left\langle a,b{\rm}\left|{\rm }a^{m}=1,{\rm}b^{2} =1,{\rm \; }bab^{-1} =a^{-1} \right. \right\rangle,$ $m&gt;1$  over the commutative local rings, is proposed from the point of view of a unified position.  The conditions for their irreducibility, indecomposable and equivalency are  found.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2012/37_2/115-131.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Elementary reduction of matrices over Bezout ring with stable range 1 (in Ukrainian)</title>
+    <authors>
+      <author>Romaniv O. M. </author>
+    </authors>
+    <startPage>132</startPage>
+    <endPage>135</endPage>
+    <keywords>
+      <keyword>stable range</keyword>
+      <keyword>omega-Euclidean ring</keyword>
+      <keyword>Bezout ring</keyword>
+      <keyword>Hermite ring</keyword>
+      <keyword>alementary reduction of matrices</keyword>
+      <keyword>idempotent matrices </keyword>
+    </keywords>
+    <abstract>We prove that a commutative Bezout ring with stable range 1 is a ring with elementary reduction of matrices and that every singular matrice over commutative Bezout ring with stable range 1 is products of idempotent matrices.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2012/37_2/132-135.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Reduction of a pair of matrices to a special triangular form over a ring of almost stable range 1 (in Ukrainian)</title>
+    <authors>
+      <author>Bilavska S. I.</author>
+      <author>Vasyunyk I. S. </author>
+    </authors>
+    <startPage>136</startPage>
+    <endPage>141</endPage>
+    <keywords>
+      <keyword>matrices</keyword>
+      <keyword>triangular form</keyword>
+      <keyword>ring</keyword>
+      <keyword>stable range </keyword>
+    </keywords>
+    <abstract>In the paper it is considered a notion of a ring of almost stable range 1. It is shown that an arbitrary pair of matrices over commutative Bezout domain of almost stable range 1, where at least one of the matrices is not a zero divisor, reduced to a special triangular form with the corresponding elementary divisors on the main diagonal by using the unilateral transformations. It is also proved that elementary divisors of the product of matrices over a commutative Bezout domain of almost stable range 1 are elementary divisors of every multiplier.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2012/37_2/136-141.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>A functional representation of superextension monad and linked system monad</title>
+    <authors>
+      <author>Peregniak I.</author>
+      <author>Radul T. </author>
+    </authors>
+    <startPage>142</startPage>
+    <endPage>146</endPage>
+    <keywords>
+      <keyword>monad</keyword>
+      <keyword>superextension</keyword>
+      <keyword>linked system </keyword>
+    </keywords>
+    <abstract>A functional representation of inclusion hyperspace monad was constructed in [1]. The inclu- sion hyperspace monad contains as submonads such important monads as the superextension monad and linked system monad. We give characterizations of a functional representation for these monads.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2012/37_2/142-146.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>On derivatives of conjugate trigonometric polynomials in $L_0$ (in Russian)</title>
+    <authors>
+      <author>Adamov A. N. </author>
+    </authors>
+    <startPage>147</startPage>
+    <endPage>154</endPage>
+    <keywords>
+      <keyword>derivatives of the polynomials</keyword>
+      <keyword>conjugate trigonometric polynomial</keyword>
+      <keyword>L_0 space</keyword>
+      <keyword>Szego inequality </keyword>
+    </keywords>
+    <abstract>We consider Szego type inequality, where the norm of the derivatives of the conjugate trigonometric polynomials is measured by the norm of the polynomial itself in $L_0$ space. We improve the estimate of the constant in it, which was got by V. V. Arestov before.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2012/37_2/147-154.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>On sharpness of growth estimates of Cauchy-Stieltjes integrals in the unit disc and the polydisc</title>
+    <authors>
+      <author>Chyzhykov I. E.</author>
+      <author>Zolota O. A. </author>
+    </authors>
+    <startPage>155</startPage>
+    <endPage>160</endPage>
+    <keywords>
+      <keyword>modulus of continuity</keyword>
+      <keyword>Cantor type function</keyword>
+      <keyword>Cauchy-Stieltjes integral</keyword>
+      <keyword>unit disc</keyword>
+      <keyword>polydisc</keyword>
+      <keyword>omega-capacity </keyword>
+    </keywords>
+    <abstract>The examples showing sharpness of results of M. M. Sheremeta and the second author are constructed.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2012/37_2/155-160.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Compactly convex sets in linear topological spaces</title>
+    <authors>
+      <author>Banakh T.</author>
+      <author>Mitrofanov M.</author>
+      <author>Ravsky O. </author>
+    </authors>
+    <startPage>161</startPage>
+    <endPage>173</endPage>
+    <keywords>
+      <keyword>compactly convex set</keyword>
+      <keyword>linear topological space </keyword>
+    </keywords>
+    <abstract>A convex subset $X$ of a linear topological space is called {\em compactly convex} if there is a~continuous compact-valued map $\Phi\colon X\to\exp(X)$ such that $[x,y]\subset\Phi(x)\cup\Phi(y)$ for all $x,y\in X$. We prove that each convex subset of the plane is compactly convex. On the other hand, the space $\mathbb{R}^3$ contains a convex set that is not compactly convex. Each compactly convex subset $X$ of a linear topological space $L$ has locally compact closure $\bar X$ which is metrizable if and only if each compact subset of $X$ is metrizable.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2012/37_2/161-173.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Boolean independent sequences and Bourgain-Rosenthal’s theorem (in Ukrainian)</title>
+    <authors>
+      <author>Mykhaylyuk V. V. </author>
+    </authors>
+    <startPage>174</startPage>
+    <endPage>178</endPage>
+    <keywords>
+      <keyword>boolean independent sequence</keyword>
+      <keyword>narrow operator </keyword>
+    </keywords>
+    <abstract>A property of boolean independent sequences of pairs of sets is obtained. This completes the proof of Bourgain-Rosenthal's theorem on narrow operators.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2012/37_2/174-178.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Matrix algebraic sets of infinite dimension</title>
+    <authors>
+      <author>Labachuk O. V. </author>
+    </authors>
+    <startPage>179</startPage>
+    <endPage>183</endPage>
+    <keywords>
+      <keyword>multiplicative polynomials</keyword>
+      <keyword>infinite-dimensional real Banach space </keyword>
+    </keywords>
+    <abstract>Using multiplicative polynomials on algebras it is proved an analogue of Hilbert Nullstellensatz for the case of an infinite-dimensional real Banach space.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2012/37_2/179-183.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>On one method of construction of symmetry operator C</title>
+    <authors>
+      <author>Sudilovskaya V. I. </author>
+    </authors>
+    <startPage>184</startPage>
+    <endPage>192</endPage>
+    <keywords>
+      <keyword>Krein spaces</keyword>
+      <keyword>indefinite metrics</keyword>
+      <keyword>operator C</keyword>
+      <keyword>operator Riccati equation </keyword>
+    </keywords>
+    <abstract>The new method of construction of symmetry operator C, which is one of the principal notions of the pseudo-Hermitian quantum mechanics, is proposed. The method is based on solving Riccati operator equations. The theorem on the boundedness/unboundedness of operator C in terms of solutions of the Riccati equation is established. Sufficient conditions for the existence of the operator C are determined.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2012/37_2/184-192.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Trivial $I^\tau$ fibrations of the multiplication maps for monads $\mathbb{O}$, $\mathbb{OH}$ and $\mathbb{OS}$</title>
+    <authors>
+      <author>Karchevska L. I.</author>
+      <author>Radul T. M. </author>
+    </authors>
+    <startPage>193</startPage>
+    <endPage>202</endPage>
+    <keywords>
+      <keyword>Trivial fibration</keyword>
+      <keyword>Tychonov cube</keyword>
+      <keyword>monad </keyword>
+    </keywords>
+    <abstract>In this paper we investigate when the multiplication maps of monads O, OH and OS are trivial fibrations with fibers homeomorphic to a Tychonov cube or a Hilbert cube.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2012/37_2/193-202.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Convergence of stochastic process with Markov switching</title>
+    <authors>
+      <author>Kiykovska O. I.</author>
+      <author>Chabanyuk Ya. M. </author>
+    </authors>
+    <startPage>203</startPage>
+    <endPage>208</endPage>
+    <keywords>
+      <keyword>stochastic process</keyword>
+      <keyword>Markov switching</keyword>
+      <keyword>diffusion process </keyword>
+    </keywords>
+    <abstract>It has been established sufficient conditions for the convergence of a multi-dimensional stochastic process in the case of dependence of the regression function on the environment, which is described by Markov switchings. It has been obtained the generator of a limiting process, which is a stochastic diffusion process in the sense of the classical definition.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2012/37_2/203-208.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>On the numerical solution of parabolic Cauchy problem in a domain with cut (in Ukrainian)</title>
+    <authors>
+      <author>Vavrychuk V. G.</author>
+      <author>Chapko R. S. </author>
+    </authors>
+    <startPage>209</startPage>
+    <endPage>218</endPage>
+    <keywords>
+      <keyword>heat equation</keyword>
+      <keyword>Cauchy problem</keyword>
+      <keyword>Ladweber method</keyword>
+      <keyword>mixed boundary value problems</keyword>
+      <keyword>single- and
+double layer potentials</keyword>
+      <keyword>integral equation of the first kind</keyword>
+      <keyword>trigonometrical quadrature method </keyword>
+    </keywords>
+    <abstract>Cauchy problem is numerically solved with help of iterative regularization procedure at every step of which mixed nonstationary Dirichlet-Neumann problems for parabolic equation arise. Using Rothe’s method mixed problems are reduced to the boundary integral equations which have three kinds of singularities: square root, logarithmic and hypersingularity. Special techniques are employed to cope with them so that in the case of analytic input data solution of boundary integral equations have exponential error decay.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2012/37_2/209-218.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>On spaces of fuzzy metrics</title>
+    <authors>
+      <author>Savchenko A. </author>
+    </authors>
+    <startPage>219</startPage>
+    <endPage>222</endPage>
+    <keywords>
+      <keyword>fuzzy metric</keyword>
+      <keyword>Hilbert space </keyword>
+    </keywords>
+    <abstract>We consider the space of all fuzzy metrics in the sense of George and Veeramani that are compatible with the topology of a compact metrizable space. It is proved that this space of fuzzy metrics is an l^2-manifold.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2012/37_2/219-222.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Corrections to the paper ``Sharp estimates of the growth of the Poisson-Stieltjes integral in the polydisc'' by I. E. Chyzhykov, O. A. Zolota</title>
+    <startPage>223</startPage>
+    <endPage>224</endPage>
+    <fullTextUrl>http://matstud.org.ua/texts/2012/37_2/223-224.pdf</fullTextUrl>
+  </record>
+</records>

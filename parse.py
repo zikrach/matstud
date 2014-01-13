@@ -4,6 +4,7 @@
 
 import bs4
 from urllib.request import urlopen
+from lxml import etree
 
 
 class Error(Exception):
@@ -124,7 +125,49 @@ class MatStud(object):
             for number in [1, 2]:
                 print("T. %s,  No. %s" % (volume, number))
                 try:
-                    content = list(site.get_article_content(volume, number))
+                    content = list(self.get_article_content(volume, number))
+                    print("OK!")
+                except TypeError:
+                    print("Error parsing T. %s,  No. %s" % (volume,
+                                                            number))
+                    yield [volume, number]
+                    raise
+                except InputError:
+                    print("Не існуючий номер T. %s,  No. %s" % (volume,
+                                                                number))
+
+    def article_to_xml(self, volume, number):
+        root = etree.Element("records")
+        for (title, authors, keywords,
+             abstract, text_url) in self.get_article_content(volume, number):
+            record = etree.SubElement(root, "record")
+            etree.SubElement(record, "title").text = title
+            authors_tag = etree.SubElement(record, "authors")
+            for arg in authors:
+                etree.SubElement(authors_tag, "author").text = arg.lstrip()
+            page_tuple = str(text_url).split('/')
+            page_number = str(page_tuple[-1]).split('.')
+            page_number_tuple = page_number[0].split('-')
+            etree.SubElement(record, "startPage").text = page_number_tuple[0]
+            etree.SubElement(record, "endPage").text = page_number_tuple[1]
+            keywords_tag = etree.SubElement(record, "keywords")
+            for arg in keywords:
+                etree.SubElement(keywords_tag, "keyword").text = arg.lstrip()
+            etree.SubElement(record, "abstract").text = abstract
+            etree.SubElement(record, "fullTextUrl").text = text_url
+        handle = etree.tostring(root, pretty_print=True, encoding='utf-8',
+                                xml_declaration=True, with_comments=True)
+        with open('xml/' + str(volume) + '_' +
+                          str(number) + "-xml.xml", "a") as file:
+            file.writelines(handle.decode())
+
+    def list_volume_to_xml(self, volume_min, volume_max):
+        # TODO Зробити затирання існуючих файлів
+        for volume in range(volume_min, volume_max + 1):
+            for number in [1, 2]:
+                print("T. %s,  No. %s" % (volume, number))
+                try:
+                    self.article_to_xml(volume, number)
                     print("OK!")
                 except TypeError:
                     print("Error parsing T. %s,  No. %s" % (volume,
@@ -138,4 +181,8 @@ class MatStud(object):
 if __name__ == "__main__":
     site_address = "http://matstud.org.ua/index.php/MatStud/issue/archive"
     site = MatStud(site_address)
-    print(list(site.get_article_content_error(36, 40)))
+    #print(list(site.get_article_content_error(36, 40)))
+    #site.article_to_xml(40, 1)
+    print(list(site.list_volume_to_xml(35, 40)))
+
+

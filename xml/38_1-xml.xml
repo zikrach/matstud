@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<records>
+  <record>
+    <title>Balleans and filters</title>
+    <authors>
+      <author>Petrenko O. V.</author>
+      <author>Protasov I. V. </author>
+    </authors>
+    <startPage>3</startPage>
+    <endPage>11</endPage>
+    <keywords>
+      <keyword>ballean</keyword>
+      <keyword>ballean-filter mix</keyword>
+      <keyword>ballean-ideal mix </keyword>
+    </keywords>
+    <abstract>A ballean (equivalently, a coarse structure) is an asymptotic counterpart of a uniform topo- logical space.We introduce three new constructions (namely, a ballean-filter mix, a ballean-ideal mix and a filter product of directed sets) to give some balleans with extremal properties. In particular, we construct a non-metrizable Frechet group ballean.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2012/38_1/3-11.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>On variational formulations of inner boundary value problems for infinite systems of elliptic  equations of special kind</title>
+    <authors>
+      <author>Muzychuk Yu. A.</author>
+      <author>Chapko R. S. </author>
+    </authors>
+    <startPage>12</startPage>
+    <endPage>34</endPage>
+    <keywords>
+      <keyword>elliptic equation</keyword>
+      <keyword>infinite system</keyword>
+      <keyword>Sobolev spaces</keyword>
+      <keyword>Lipschitz boundary</keyword>
+      <keyword>variational formulation</keyword>
+      <keyword>generalized solution</keyword>
+      <keyword>Green formulae</keyword>
+      <keyword>layer potential </keyword>
+    </keywords>
+    <abstract>We consider boundary value problems for infinite triangular systems of elliptic equations with variable coefficients in 3d Lipschitz domains. Variational formulations of Dirichlet, Neumann and Robin problems are received and their well posedness in corresponding Sobolev spaces is established. With the help of introduced q-convolution the integral representations of generalized solutions of formulated problems in the case of constant coefficients are built. We investigate the properties of integral operators and well posedness of received systems of boundary integral equations.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2012/38_1/12-34.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Wiman's type inequalities without exceptional sets for random entire functions of several variables</title>
+    <authors>
+      <author>Kuryliak A. O.</author>
+      <author>Skaskiv O. B. </author>
+    </authors>
+    <startPage>35</startPage>
+    <endPage>50</endPage>
+    <keywords>
+      <keyword>entire functions of several variables</keyword>
+      <keyword>multiple power series</keyword>
+      <keyword>maximum modulus</keyword>
+      <keyword>maximal term</keyword>
+      <keyword>Wiman’s inequality </keyword>
+    </keywords>
+    <abstract>In the paper we consider entire functions $f\colon \mathbb{C}^p\to\mathbb{C},\ p\geq 2,$ defined by power series $f(z)=f(z_1,\ldots,z_p)=\sum_{\|n\|=0}^{+\infty}a_n z^n, %\ p\geq2, z^n=z_1^{n_1}\cdot\ldots\cdot z_p^{n_p},$ $n=(n_1,\ldots,n_p).$ For $r=(r_1,\ldots ,r_p)\in\mathbb{R}_+^p$ we set $M_f(r)=\max\{|f(z)|\colon |z_i|\leq r_i, i\in\{1,\ldots,p\}\}, \ \mu_f(r)=\max\{|a_n|r^{n}\colon  n\in\mathbb{Z}_+^p\},$ $ r^{\vee}=\max\{r_i\colon i\in\{1,\ldots,p\}\},\ r^{\wedge}=\min\{r_i\colon i\in\{1,\ldots,p\}\}$ and let $l$ be a log-convex real function on $(1,+\infty)$ such that $\ln t=o(l(t)),\ t\to+\infty.$ Then for any entire transcendental function $f$ {with} $\ln M_f(r)\leq l(r^{\vee}),\ r^{\wedge}\to+\infty,$ {the} inequality $\varlimsup\limits_{r^{\wedge}\to+\infty} \frac{\ln M_f(r)-\ln\mu_f(r)}{\ln\ln\mu_f(r)}\leq\alpha$  holds if and only if $ \varlimsup\limits_{t\to+\infty}(\ln l(t)/\ln\ln t)\leq1+\alpha/p.$  Similar theorems are proved for random entire functions of several complex variables. </abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2012/38_1/35-50.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Asymptotic approximation of a solution of a quasilinear parabolic boundary-value problem in a two-level thick junction of type 3:2:2</title>
+    <authors>
+      <author>Sadovyj D. Yu. </author>
+    </authors>
+    <startPage>51</startPage>
+    <endPage>67</endPage>
+    <keywords>
+      <keyword>homogenization</keyword>
+      <keyword>quasilinear problem</keyword>
+      <keyword>parabolic problem</keyword>
+      <keyword>asymptotic approximation</keyword>
+      <keyword>thick junction </keyword>
+    </keywords>
+    <abstract>We consider a quasilinear parabolic boundary-value problem in a two-level thick junction $\Omega_\varepsilon$ of type $3:2:2$, which is the union of a cylinder $\Omega_0$ and a large number of $\varepsilon$-periodically situated thin discs with variable thickness. Different Robin boundary conditions with perturbed parameters are given on the surfaces of the thin discs. The leading terms of the asymptotic expansion are constructed and the corresponding estimate in  Sobolev space is obtained.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2012/38_1/51-67.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Initial-boundary problems for systems of a high order doubly nonlinear parabolic equations with variable exponent of nonlinearity</title>
+    <authors>
+      <author>Bokalo T. M. </author>
+    </authors>
+    <startPage>68</startPage>
+    <endPage>79</endPage>
+    <keywords>
+      <keyword>system of doubly nonlinear equations</keyword>
+      <keyword>existence theorem</keyword>
+      <keyword>uniqueness theorem</keyword>
+      <keyword>Galerkin procedure </keyword>
+    </keywords>
+    <abstract>Consider a mixed problem for a class of system of a high order doubly nonlinear parabolic equations with variable exponent of nonlinearity. This problem is considered in generalized Lebesgue-Sobolev spaces. As a result, we reached a condition of the existence of a solution. We use here Galerkin's procedure.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2012/38_1/68-79.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Global сlassical solvability of a problem with nonlocal conditions  for degenerate hyperbolic system of the first order equations</title>
+    <authors>
+      <author>Andrusyak R. V.</author>
+      <author>Kyrylych V. M.</author>
+      <author>Peliushkevych O. V. </author>
+    </authors>
+    <startPage>80</startPage>
+    <endPage>92</endPage>
+    <keywords>
+      <keyword>hyperbolic system</keyword>
+      <keyword>method of characteristics</keyword>
+      <keyword>Banach theorem</keyword>
+      <keyword>fixed point </keyword>
+    </keywords>
+    <abstract>Using the method of characteristics and the Banach fixed point theorem we established the existence and uniqueness of a global classical (smooth) solution to an initial-boundary value problem with nonlocal boundary conditions for a hyperbolic integro-differential system involving equations without time derivative of unknown functions.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2012/38_1/80-92.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>The $M^{\theta}/G/1/m$ queues with the time of service, depending on the length of the queue (in Ukrainian)</title>
+    <authors>
+      <author>Zhernovyi K. Yu. </author>
+    </authors>
+    <startPage>93</startPage>
+    <endPage>105</endPage>
+    <keywords>
+      <keyword>M^theta/G/1/m queue</keyword>
+      <keyword>queue length dependent service time</keyword>
+      <keyword>stationary distribution of the number of
+customers </keyword>
+    </keywords>
+    <abstract>We study the $M^\theta/G/1/m$ queue with the time of service, depending on the length of the queue at the service initiation. By using Korolyuk's potential method, we derive the average duration of the busy time and the stationary distribution of the number of customers in such a system. Similar results for the $M^\theta/G/1/m$ queue with one threshold of switching of service modes are obtained.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2012/38_1/93-105.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Two open problems for absolutely convergent Dirichlet series</title>
+    <authors>
+      <author>Skaskiv O. B.</author>
+      <author>Zadorozhna  O. Yu. </author>
+    </authors>
+    <startPage>106</startPage>
+    <endPage>112</endPage>
+    <keywords>
+      <keyword>analytic function</keyword>
+      <keyword>Dirichlet series</keyword>
+      <keyword>maximal term </keyword>
+    </keywords>
+    <abstract>For the absolutely convergent in a half-plane Dirichlet series we establish upper estimates without exceptional sets.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2012/38_1/106-112.pdf</fullTextUrl>
+  </record>
+</records>

@@ -1,0 +1,244 @@
+<?xml version='1.0' encoding='utf-8'?>
+<records>
+  <record>
+    <title>Prethick subsets and partitions of metric space</title>
+    <authors>
+      <author>Protasova K. D. </author>
+    </authors>
+    <startPage>115</startPage>
+    <endPage>117</endPage>
+    <keywords>
+      <keyword>metric space</keyword>
+      <keyword>thick and prethick subsets</keyword>
+      <keyword>asymptotically
+isolated balls </keyword>
+    </keywords>
+    <abstract>A subset $A$ of a metric space $(X,d)$ is called thick if, for every $r&gt;0$, there is $a\in A$ such that $B_{d}(a,r)\subseteq A,$ where $B_{d}(a,r)=\{x\in X\colon  d(x,a)\leq r\}$. We show that if $(X, d)$ is unbounded and has no asymptotically isolated balls then, for each $r&gt;0$, there exists a partition $X=X_{1}\cup X_{2}$ such that $B_{d}(X_{1},r)$ and $B_{d}(X_{2},r)$ are not thick.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2012/38_2/115-117.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>On $\mathscr{H}$-complete topological semilattices</title>
+    <authors>
+      <author>Bardyla S.</author>
+      <author>Gutik O. </author>
+    </authors>
+    <startPage>118</startPage>
+    <endPage>123</endPage>
+    <keywords>
+      <keyword>topological semilattice</keyword>
+      <keyword>free filter</keyword>
+      <keyword>complete semigroup</keyword>
+      <keyword>chain </keyword>
+    </keywords>
+    <abstract>In the paper we describe the structure of $\mathscr{A\!H}$-completions and $\mathscr{H}$-completions of the discrete semilattices $(\mathbb{N},\min)$ and $(\mathbb{N},\max)$. We give an example of an $\mathscr{H}$-complete topological semilattice which is not $\mathscr{A\!H}$-complete. Also for an arbitrary infinite cardinal $\lambda$  we construct an $\mathscr{H}$-complete topological semilattice of cardinality $\lambda$ which has $2^\lambda$ many open-and-closed continuous homomorphic images which are not $\mathscr{H}$-complete topological semilattices. The constructed examples give a negative answer to Question 17 in the paper J. W. Stepp, Algebraic maximal semilattices, Pacific J. Math., 58  (1975), no.1, 243--248.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2012/38_2/118-123.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Finitely generated subgroups as  von Neumann radicals of an Abelian group</title>
+    <authors>
+      <author>Gabriyelyan S. S. </author>
+    </authors>
+    <startPage>124</startPage>
+    <endPage>138</endPage>
+    <keywords>
+      <keyword>characterized group</keyword>
+      <keyword>T-sequence</keyword>
+      <keyword>von Neumann radical</keyword>
+      <keyword>finitely generated subgroup </keyword>
+    </keywords>
+    <abstract>Let G be an infinite Abelian group. We give a complete characterization of those finitely generated subgroups of G which are the von Neumann radicals for some Hausdorff group topologies on G. It is proved that every infinite finitely generated Abelian group admits a complete Hausdorff minimally almost periodic group topology. The latter result resolves a particular case of Comfort’s problem.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2012/38_2/124-138.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>On $H_1$-compositors and piecewise continuous mappings (in Ukrainian)</title>
+    <authors>
+      <author>Karlova O. O.</author>
+      <author>Sobchuk O. V. </author>
+    </authors>
+    <startPage>139</startPage>
+    <endPage>146</endPage>
+    <keywords>
+      <keyword>right $H_1$-compositor</keyword>
+      <keyword>right $B_1$-compositor</keyword>
+      <keyword>mapping of the first Lebesgue class</keyword>
+      <keyword>$G_\delta$-measurable mapping</keyword>
+      <keyword>piecewise continuous mapping</keyword>
+      <keyword>$k$-continuous mapping</keyword>
+      <keyword>weakly $k$-continuous mapping </keyword>
+    </keywords>
+    <abstract>We introduce the notion of a right $H_1$-compositor and prove that for a hereditarily Baire metrizable space $X$, a normal space $Y$ and a mapping $f\colon X\to Y$ the following conditions are equivalent: (i) $f$ is piecewise continuous; (ii) $f$ is $k$-continuous; (iii) $f$ is $G_\delta$-measurable; if, moreover, $Y$ is perfect, then (i)--(iii) are equivalent to: (iv) $f$ is a right $H_1$-compositor.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2012/38_2/139-146.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>The angular value distribution of analytic and random analytic functions (in Ukrainian)</title>
+    <authors>
+      <author>Mahola M. P.</author>
+      <author>Filevych P. V. </author>
+    </authors>
+    <startPage>147</startPage>
+    <endPage>153</endPage>
+    <keywords>
+      <keyword>value distribution, analytic function</keyword>
+      <keyword>random analytic function</keyword>
+      <keyword>integrated counting function</keyword>
+      <keyword>angular integrated counting function </keyword>
+    </keywords>
+    <abstract>Let $a\in\mathbb{C}$, $f(z)=\sum c_nz^n$ be an analytic function in the disk $|z|</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2012/38_2/147-153.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Subharmonic functions of finite $(\gamma,\varepsilon)$-type in a half-plane</title>
+    <authors>
+      <author>Malyutin K. G.</author>
+      <author>Kozlova I. I. </author>
+    </authors>
+    <startPage>154</startPage>
+    <endPage>161</endPage>
+    <keywords>
+      <keyword>proper subharmonic function</keyword>
+      <keyword>function of growth</keyword>
+      <keyword>Fourier coefficients</keyword>
+      <keyword>complete measure </keyword>
+    </keywords>
+    <abstract>We obtain criterions for delta-subharmonic function to belong to the class of functions of finite $(\gamma,\varepsilon)$)-type in a half-plane. These criterions are formulated in terms of Fourier coefficients of a function.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2012/38_2/154-161.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Vibrating systems with heavy soft inclusions (in Ukrainian)</title>
+    <authors>
+      <author>Hut V. M. </author>
+    </authors>
+    <startPage>162</startPage>
+    <endPage>176</endPage>
+    <keywords>
+      <keyword>spectral Neumann problem</keyword>
+      <keyword>eigenvalue</keyword>
+      <keyword>eigenfunction</keyword>
+      <keyword>singular perturbation</keyword>
+      <keyword>asymptotics of
+spectrum</keyword>
+      <keyword>heavy inclusions </keyword>
+    </keywords>
+    <abstract>The Neumann spectral problem for an elliptic operator of the second order with singularly perturbed coefficients is considered. The asymptotic behavior of eigenvalues and eigenfunctions is studied. The problem describes the eigenmodes of a composite material with a finite number of heavy and soft inclusions. The number-by-number convergence of the eigenvalues and the corresponding eigenspaces is established. The limit eigenvalue problem involves a non-local boundary condition which arises from the non trivial coupling of the inclusions.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2012/38_2/162-176.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Optimal control for systems described by evolution equations degenerated at the initial moment (in Ukrainian)</title>
+    <authors>
+      <author>Bokalo M. M.</author>
+      <author>Tsebenko A. M. </author>
+    </authors>
+    <startPage>177</startPage>
+    <endPage>187</endPage>
+    <keywords>
+      <keyword>optimal control</keyword>
+      <keyword>final observation</keyword>
+      <keyword>evolution degenerated equation</keyword>
+      <keyword>problem without initial conditions </keyword>
+    </keywords>
+    <abstract>We prove the existence and uniqueness of the solutions of the optimal control problems for systems described by evolution equations degenerated at the initial moment. A characterization is given for the solutions of the considered problems. We also consider in detail the case of the final observation and obtain a set of correlations that characterize the optimal controls.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2012/38_2/177-187.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>The Bing plane and separately continuous mappings (in Ukrainian)</title>
+    <authors>
+      <author>Karlova O. O.</author>
+      <author>Maslyuchenko V. K.</author>
+      <author>Myronyk O. D. </author>
+    </authors>
+    <startPage>188</startPage>
+    <endPage>193</endPage>
+    <keywords>
+      <keyword>separately continuous function</keyword>
+      <keyword>the Bing plane</keyword>
+      <keyword>$\sigma$-metrizable spaces</keyword>
+      <keyword>continuum </keyword>
+    </keywords>
+    <abstract>We prove that the Bing plane $\mathbb{B}$ is  $\sigma$-metrizable but not strongly $\sigma$-metrizable. Also we show that for $c$-connected topological spaces $X$ and $Y$ each separately continuous function $f:X\times Y\to \mathbb{B}$ is constant.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2012/38_2/188-193.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>The system $\mathrm{M^{\theta}/G/1/m}$ with two operation modes and hysteretic control of queue</title>
+    <authors>
+      <author>Zhernovyi K. Yu. </author>
+    </authors>
+    <startPage>194</startPage>
+    <endPage>202</endPage>
+    <keywords>
+      <keyword>the M^theta/G/1/m queue with two service modes</keyword>
+      <keyword>hysteretic strategy</keyword>
+      <keyword>blocking of input flow</keyword>
+      <keyword>the busy
+time</keyword>
+      <keyword>stationary characteristics</keyword>
+      <keyword>problems of optimal synthesis </keyword>
+    </keywords>
+    <abstract>We consider the $\mathrm{M^{\theta}/G/1/m}$  queue with two service modes (basic and postthreshold) with the distribution functions of service time $F(x)$   and $\widetilde{F}(x)$ respectively. The postthreshold mode is used in conjunction with blocking of input flow if at the beginning of service of the next customer the number of customers in the system $\xi(t)$ satisfies the condition $\xi(t)&gt;h_2.$ Return to the basic mode and stop blocking carried out at the beginning of service of the next customer, if $\xi(t)\le h_1,$ where $h_1\le h_2.$ Laplace transforms for distributions of the number of customers in the system on the busy period and for the busy time distribution function are found. The mean duration of the busy time is found, and formulas for the stationary distribution of number of customers in the system and stationary characteristics of queue are obtained. The case of $m=\infty$ is considered.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2012/38_2/194-202.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Some open problems on Banach spaces</title>
+    <authors>
+      <author>Plichko A. M.</author>
+      <author>Popov M. M. </author>
+    </authors>
+    <startPage>203</startPage>
+    <endPage>211</endPage>
+    <keywords>
+      <keyword>Banach space</keyword>
+      <keyword>Banach lattice </keyword>
+    </keywords>
+    <abstract>Notes of the Problem Session which has been held on the section of Banach Spaces during the International conference dedicated to the 120-th anniversary of Stefan Banach in Lviv (Ukraine), September 17–21, 2012.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2012/38_2/203-211.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>On the maximum modulus points of entire and meromorphic functions and a problem of Erd\H{o}s</title>
+    <authors>
+      <author>Marchenko I. I. </author>
+    </authors>
+    <startPage>212</startPage>
+    <endPage>215</endPage>
+    <keywords>
+      <keyword>maximum modulus point</keyword>
+      <keyword>meromorphic function</keyword>
+      <keyword>Nevanlinna’s characteristic</keyword>
+      <keyword>entire function</keyword>
+      <keyword>lower order </keyword>
+    </keywords>
+    <abstract>Two conjectures concerning the number of maximum modulus points of an entire and a meromorphic function on the circle {z:|z|=r} are presented and discussed.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2012/38_2/212-215.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>A question on the spectra of algebras of symmetric functions on $L_\infty$ related to the moment problem</title>
+    <authors>
+      <author>Vasylyshyn T. V.</author>
+      <author>Zagorodnyuk A. V. </author>
+    </authors>
+    <startPage>216</startPage>
+    <endPage>217</endPage>
+    <keywords>
+      <keyword>spectra of algebras of symmetric analytic functions</keyword>
+      <keyword>trigonometric moment problem </keyword>
+    </keywords>
+    <abstract>We consider a question on description of the set of characters of the algebra of bounded type symmetric analytic functions on $L_\infty[0; 1]$ and establish some connection with the trigonometric moment problem.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2012/38_2/216-217.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Vasyl Ivanovych Andriychuk</title>
+    <startPage>218</startPage>
+    <endPage>219</endPage>
+    <fullTextUrl>http://matstud.org.ua/texts/2012/38_2/218-219.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Yaroslav Volodymyrovych Vasyl’kiv</title>
+    <startPage>220</startPage>
+    <endPage>221</endPage>
+    <fullTextUrl>http://matstud.org.ua/texts/2012/38_2/220-221.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Index, 2012</title>
+    <startPage>222</startPage>
+    <endPage>224</endPage>
+    <fullTextUrl>http://matstud.org.ua/texts/2012/38_2/222-224.pdf</fullTextUrl>
+  </record>
+</records>

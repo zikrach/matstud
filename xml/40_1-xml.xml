@@ -1,0 +1,218 @@
+<?xml version='1.0' encoding='utf-8'?>
+<records>
+  <record>
+    <title>Unique quivers(in Ukrainian)</title>
+    <authors>
+      <author>Kirichenko V. V.</author>
+      <author>Zelensky A. V. </author>
+    </authors>
+    <startPage>3</startPage>
+    <endPage>10</endPage>
+    <keywords>
+      <keyword>exponent matrix</keyword>
+      <keyword>admissible quiver</keyword>
+      <keyword>Gorenstein's matrix </keyword>
+    </keywords>
+    <abstract>We consider unique admissible quivers, i. e. quivers of Gorenstein exponent matrices. It is proved that admissible quiver with a loop at each vertex is unique if and only if  it is a simple cycle, and that there are different from the simple cycles unique quivers with any number of vertices.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2013/40_1/3-10.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Infinite dimensional linear groups with a spacious family of $G$-invariant subspaces</title>
+    <authors>
+      <author>Sadovnichenko A. V. </author>
+    </authors>
+    <startPage>11</startPage>
+    <endPage>15</endPage>
+    <keywords>
+      <keyword>vector space</keyword>
+      <keyword>linear group</keyword>
+      <keyword>module</keyword>
+      <keyword>$G$-invariant subspace</keyword>
+      <keyword>almost invariant subspace </keyword>
+    </keywords>
+    <abstract>Let $F$ be a field, $A$ be a vector space over $F$, $GL (F, A)$ be the group of all automorphisms of the vector space $A$. If $B \leq A$ then denote by $\mathop{\rm Core}_G (B)$ the largest $G$-invariant subspace of $B$. A subspace $B$ is called almost $G$-invariant if $\mathop{\rm dim}_F (B/\mathop{\rm Core}_G (B))$ is finite. In this paper we described the {case where} every subspace of $A$ is almost $G$-invariant.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2013/40_1/11-15.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>On a theorem of John and its generalizations</title>
+    <authors>
+      <author>Savostyanova I. M.</author>
+      <author>Volchkov Vit. V. </author>
+    </authors>
+    <startPage>16</startPage>
+    <endPage>22</endPage>
+    <keywords>
+      <keyword>spherical means</keyword>
+      <keyword>spherical cap</keyword>
+      <keyword>Legendre functions </keyword>
+    </keywords>
+    <abstract>The purpose of this paper is to consider some generalizations of the class of functions having zero integrals over balls of a fixed radius. We obtain an analog of John's uniqueness theorem for weighted spherical means on sphere.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2013/40_1/16-22.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>On a lower continuity of upper continuous mappings with values in the Sorgenfrey line(in Ukrainian)</title>
+    <authors>
+      <author>Maslyuchenko V. K.</author>
+      <author>Maslyuchenko  O. V.</author>
+      <author>Fotiy  O. G. </author>
+    </authors>
+    <startPage>23</startPage>
+    <endPage>29</endPage>
+    <keywords>
+      <keyword>Sorgenfrey line</keyword>
+      <keyword>upper semicontinuous multi-valued mapping</keyword>
+      <keyword>lower semicontinuous multi-valued mapping </keyword>
+    </keywords>
+    <abstract>We shown that for each lower continuous finite valued mapping from metrizable topological space $X$ in Sorgenfrey line the set of points of upper continuous is residual in $X$.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2013/40_1/23-29.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Differential equations and integral characterizations of timelike and spacelike spherical curves in the Minkowski space-time $E_1^4 $</title>
+    <authors>
+      <author>Onder M.</author>
+      <author>Kahraman  T.</author>
+      <author>Ugurlu H. H. </author>
+    </authors>
+    <startPage>30</startPage>
+    <endPage>37</endPage>
+    <keywords>
+      <keyword>Minkowski space-time</keyword>
+      <keyword>timelike curve</keyword>
+      <keyword>Frenet frame </keyword>
+    </keywords>
+    <abstract>In this paper we give differential equations characterizing timelike and spacelike curves lying on hyperbolic sphere $H_0^3 $ and Lorentzian sphere $S_1^3 $ in the Minkowski space-time $E_1^4 $. Furthermore, we give the integral characterizations of these curves in $E_1^4 $.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2013/40_1/30-37.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Asymptotics of eigenvalues and eigenfunctions of energy-dependent Sturm-Liouville equations</title>
+    <authors>
+      <author>Pronska N. I. </author>
+    </authors>
+    <startPage>38</startPage>
+    <endPage>52</endPage>
+    <keywords>
+      <keyword>energy-dependent potentials</keyword>
+      <keyword>Sturm-Liouville equations </keyword>
+    </keywords>
+    <abstract>We study asymptotics of eigenvalues, eigenfunctions and norming constants of singular energy-dependent Sturm-Liouville equations with complex-valued potentials. The analysis essentially exploits the integral representation of solutions, which we derive using the connection between the problem under study and a Dirac system of a special form.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2013/40_1/38-52.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>On growth order of solutions of differential equations in a neighborhood of a branch point</title>
+    <authors>
+      <author>Mokhonko A. Z.</author>
+      <author>Mokhonko A. A. </author>
+    </authors>
+    <startPage>53</startPage>
+    <endPage>65</endPage>
+    <keywords>
+      <keyword>algebraic differential equation</keyword>
+      <keyword>branch point of analytic function</keyword>
+      <keyword>meromorphic solution</keyword>
+      <keyword>order of growth </keyword>
+    </keywords>
+    <abstract>Let  $M_k$ be {the} set of $k$-valued meromorphic in $G=\{z\colon r_0\leqslant |z|\}$ functions with {a}~branch point of order $k-1$ {at} $\infty$; let $E_\ast$ be a set of circles {with finite} sum of radii. Denote $ M_\ast(r,f)=\max|f(z)|,\ z\in\{te^{i\theta}\colon 0\leqslant\theta\leqslant2k\pi,\ r_0\leqslant t\leqslant r\}\setminus E_\ast,\ f\!\in\! M_k; $ $m(r,f)=\frac{1}{2\pi k}\int_0^{2\pi k}\!\ln^+\!|f(re^{i\theta})|d\theta$. If $f\in M_k$ is a solution of the equation $P(z,f,f')=0$ and $P$ is a polynomial in all variables then either $|f(re^{i\theta})|\le r^\nu,$ $re^{i\theta}\in G\setminus E_\ast,\ \nu&gt;0$ or $m(r,f)$ has growth order $\rho\geqslant\frac{1}{2k}$, and the following equality holds $\ln M_\ast(r,f)=(c+o(1))r^\rho,$ $c\neq0,$ $r\to+\infty.$</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2013/40_1/53-65.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Daugavet centers are separably determined</title>
+    <authors>
+      <author>Ivashyna T. </author>
+    </authors>
+    <startPage>66</startPage>
+    <endPage>70</endPage>
+    <keywords>
+      <keyword>Daugavet center</keyword>
+      <keyword>Daugavet property</keyword>
+      <keyword>narrow operator </keyword>
+    </keywords>
+    <abstract>A linear bounded operator $G$ acting from a Banach space $X$ into a Banach space $Y$ is a Daugavet center if every linear bounded rank-$1$ operator $T\colon  X \to Y$ fulfills $\|G+T\|=\|G\|+\|T\|$. We prove that $G \colon  X \to Y$ is a~Daugavet center if and only if for every separable subspaces $X_1\subset X$ and $Y_1\subset Y$ there exist separable subspaces $X_2\subset X$ and $Y_2\subset Y$ such that $X_1\subset X_2$, $Y_1\subset Y_2$, $G(X_2)\subset Y_2$ and the restriction $G|_{X_2} \colon   X_2 \to Y_2$ of $G$ is a Daugavet center. We apply this fact to study the set of $G$-narrow operators.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2013/40_1/66-70.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Criteria of mutual adjointness of proper extensions of linear relations</title>
+    <authors>
+      <author>Oliyar Yu. I.</author>
+      <author>Storozh O. G. </author>
+    </authors>
+    <startPage>71</startPage>
+    <endPage>78</endPage>
+    <keywords>
+      <keyword>extension</keyword>
+      <keyword>adjoint</keyword>
+      <keyword>Hilbert space </keyword>
+    </keywords>
+    <abstract>In the paper the role of an initial object is played by a couple $(L,L_0)$ of closed linear relations in a Hilbert space $H$, such that $L_0 \subset L$. Each closed linear relation $L_1(M_1)$ such that $L_0 \subset L_1 \subset L$ (respectively $L^{\ast} \subset M_1 \subset L_0^{\ast} $) is said to be a proper extension of $ L_0(L^{\ast})$. In the terms of abstract boundary operators i.e. bounded linear operator $U(V)$ acting from $L(M)$ to $G$ ($G$ is an auxiliary Hilbert space) such that the null space of $U(V)$ contains $L_0(L^{\ast})$, criteria of mutual adjointness for mentioned above relations $L_1$ and $M_1$ are established.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2013/40_1/71-78.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Asymptotics of the spectrum of inhomogeneous plate with light-weight stiff inclusions</title>
+    <authors>
+      <author>Golovaty Yu. D.</author>
+      <author>Hut  V. M. </author>
+    </authors>
+    <startPage>79</startPage>
+    <endPage>94</endPage>
+    <keywords>
+      <keyword>spectral Dirichlet problem</keyword>
+      <keyword>biharmonic operator</keyword>
+      <keyword>eigenvalue</keyword>
+      <keyword>eigenfunction</keyword>
+      <keyword>singular perturbation</keyword>
+      <keyword>asymptotics of spectrum</keyword>
+      <keyword>stiff light  inclusions </keyword>
+    </keywords>
+    <abstract>The Dirichlet spectral problem for an elliptic operator of the fourth order with singularly perturbed coefficients is considered. The problem describes the eigenmodes of a plate with finite number of the stiff and light-weight inclusions of an arbitrary shape. The asymptotic behavior of eigenvalues and eigenfunctions is studied. The number-by-number convergence of the eigenvalues and the corresponding eigenspaces is established. The limit eigenvalue problem  involves a non-local boundary conditions. Justification of the asymptotic formulas is based on the norm resolvent convergence of a family of unbounded self-adjoint operators.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2013/40_1/79-94.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>On  diffeomorfisms of almost quaternion manifolds(in Russian)</title>
+    <authors>
+      <author>Kurbatova I. N. </author>
+    </authors>
+    <startPage>95</startPage>
+    <endPage>103</endPage>
+    <keywords>
+      <keyword>Riemannian space</keyword>
+      <keyword>almost quaternion structure </keyword>
+    </keywords>
+    <abstract>The special type mappings  between Riemannian spaces with almost quaternion structure are studied. The fundamental theorems of  theory of these  mappings are proved.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2013/40_1/95-103.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Decomposition of finitely generated projective modules over Bezout ring</title>
+    <authors>
+      <author>Zabavsky B. V.</author>
+      <author>Bilavska  S. І. </author>
+    </authors>
+    <startPage>104</startPage>
+    <endPage>107</endPage>
+    <keywords>
+      <keyword>finitely generated module</keyword>
+      <keyword>canonical form</keyword>
+      <keyword>fractionally regular</keyword>
+      <keyword>principal ideal</keyword>
+      <keyword>semi-cancellative ring</keyword>
+      <keyword>Bezout ring </keyword>
+    </keywords>
+    <abstract>It is shown that a commutative Bezout ring $R$ of stable range 2 is an elementary divisor ring if and only if for each ideal $I$ every finitely generated projective $R/I$-module is a direct sum of principal ideals generated by idempotents.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2013/40_1/104-107.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Wiman type inequalities for entire Dirichlet series with arbitrary exponents</title>
+    <authors>
+      <author>Kuryliak A. O.</author>
+      <author>Ovchar I. Ye.</author>
+      <author>Skaskiv  O. B. </author>
+    </authors>
+    <startPage>108</startPage>
+    <endPage>112</endPage>
+    <keywords>
+      <keyword>entire Dirichlet
+series</keyword>
+      <keyword>Wiman's inequality </keyword>
+    </keywords>
+    <abstract>We prove analogues of the classical Wiman inequality for entire Dirichlet series $f(z)=\sum_{n=0}^{+\infty}a_ne^{z\lambda_n}$ with arbitrary positive exponents $(\lambda_n)$ such that $\sup\{\lambda_n\colon n\geq 0 \}=+\infty$. </abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2013/40_1/108-112.pdf</fullTextUrl>
+  </record>
+</records>

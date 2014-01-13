@@ -1,0 +1,257 @@
+<?xml version='1.0' encoding='utf-8'?>
+<records>
+  <record>
+    <title>Jozef Schreier ``On finite base in topological groups''</title>
+    <authors>
+      <author>Guran I.</author>
+      <author>Prytula Ya.</author>
+    </authors>
+    <startPage>3</startPage>
+    <endPage>9</endPage>
+    <keywords>
+      <keyword>Jozef Schreier</keyword>
+      <keyword>doctoral thesis</keyword>
+      <keyword>base</keyword>
+      <keyword>topological groups </keyword>
+    </keywords>
+    <abstract>One of the Ph.D. students in mathematics that belonged to Lviv Mathematical School of 1920–1939 years is Jozef Schreier. In the article, the authors provide an overview of main results of the unpublished thesis “On finite base in topological groups” by Jozef Schreier as well as the connection of the ideas of this work with modern investigations in the theory of topological groups and semigroups.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2013/39_1/3-9.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Simultaneous approximation of modulus and values of Jacobi elliptic   functions (in Ukrainian)</title>
+    <authors>
+      <author>Kholyavka Ya. M.</author>
+    </authors>
+    <startPage>10</startPage>
+    <endPage>15</endPage>
+    <keywords>
+      <keyword>simultaneous approximation</keyword>
+      <keyword>Jacobi elliptic function </keyword>
+    </keywords>
+    <abstract>Let $\operatorname{sn}_i z$ be algebraically independent Jacobi elliptic functions, $(4K_i,2iK'_i)$ be main periods  and $\varkappa_1, \varkappa_2$ be their moduli $\operatorname{sn}_i z$ ($i\in\{1,2\}$). We estimate from below the simultaneous approximation $\varkappa_1, \varkappa_2, \operatorname{sn}_1 K_2, \operatorname{sn}_2i K'_1$.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2013/39_1/10-15.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>On the Kolyvagin formula for elliptic curves with good reductions over pseudolocal fields</title>
+    <authors>
+      <author>Nesteruk V. I.</author>
+    </authors>
+    <startPage>16</startPage>
+    <endPage>20</endPage>
+    <keywords>
+      <keyword>pseudolocal field</keyword>
+      <keyword>general local field</keyword>
+      <keyword>elliptic curve</keyword>
+      <keyword>local Artin map</keyword>
+      <keyword>Hilbert symbol</keyword>
+      <keyword>Tate pairing</keyword>
+      <keyword>Weil pairing</keyword>
+      <keyword>Kolyvagin formula</keyword>
+    </keywords>
+    <abstract>We consider the relationships between the local Artin mapp $\theta \colon K^*  \to \mathrm{Gal}(K^{ab}/K)$ and the Hilbert symbol  $(\cdot\,,\cdot)\colon K^*/K^{*m} \times K^*/K^{*m} \longrightarrow \mu_m$  for a general local field, as well as between the Tate pairing and the  Weil pairing for elliptic curves with good reductions over  pseudolocal fields  (complete discretely valued fields with pseudofinite residue fields).  It is known that the Weil pairing $\{ \cdot\,,\cdot\}\colon  \mathrm{E}(\overline{K})_m \times \mathrm{E}(\overline{K})_m  \longrightarrow \mu_m $ and the Tate pairing $\langle \cdot\,,\cdot  \rangle \colon \mathrm{E}(K)/m\mathrm{E}(K) \times  \mathrm{H}^1(G_K, \mathrm{E}(\overline{K}))_m\longrightarrow  \mathbb{Z}/m\mathbb{Z}$  satisfy  $\zeta^{\langle c_1,  c_2 \rangle}=\{e_1,e_2\}$,  where $\mathrm{E}$ is an elliptic curve with good reduction over  local field and $\zeta$ an appropriate $m^{th}$ root of 1. This is  Kolyvagin's formula. It is  proved that the same holds true for elliptic curves with good reductions  over pseudolocal fields.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2013/39_1/16-20.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Topological classification of pairs of counter linear maps (in Ukrainian)</title>
+    <authors>
+      <author>Rybalkina T. V. </author>
+    </authors>
+    <startPage>21</startPage>
+    <endPage>28</endPage>
+    <keywords>
+      <keyword>pairs of counter maps</keyword>
+      <keyword>topological equivalence </keyword>
+    </keywords>
+    <abstract>We consider pairs of linear mappings $(\cal A,\cal B)$ of the form $\pud{V}{W} {\cal A}{\cal B} $ in which $V$ and $W$ are finite dimensional unitary or Euclidean spaces over $\mathbb{C}$ or $\mathbb{R}$, respectively. Let $(\cal A,\cal B)$ be transformed to $ \pud{V'}{W'} {\cal A'}{\cal B'} $} by bijections $\varphi_1\colon V\to V'$ and $\varphi_2\colon W\to W'$. We say that $(\cal A,\cal B)$ and $(\cal A',\cal B')$ are linearly equivalent if $\varphi_1$ and $\varphi_2$ are linear bijections and topologically equivalent if $ \varphi_1 $ and $ \varphi_2 $ are homeomorphisms. We prove that $(\cal A,\cal B)$ and $(\cal A',\cal B')$ are topologically equivalent if and only if their regular parts are topologically equivalent and their singular parts are linearly equivalent.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2013/39_1/21-28.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>On prime and congruence-prime acts over monoid with zero (in Ukrainian)</title>
+    <authors>
+      <author>Bilyak Yu. T.</author>
+      <author>Zelisko H. V.</author>
+      <author>Komarnitskiy M. Ya. </author>
+    </authors>
+    <startPage>29</startPage>
+    <endPage>33</endPage>
+    <keywords>
+      <keyword>monoid</keyword>
+      <keyword>act</keyword>
+      <keyword>congruence</keyword>
+      <keyword>prime act</keyword>
+      <keyword>congruence-prime act</keyword>
+      <keyword>prime congruence </keyword>
+    </keywords>
+    <abstract>The properties of the prime and the congruence-prime acts over monoid with zero are investigated.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2013/39_1/29-33.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>On the convergence of spatial homeomorphisms</title>
+    <authors>
+      <author>Ryazanov V. I.</author>
+      <author>Sevost'yanov E. A.</author>
+    </authors>
+    <startPage>34</startPage>
+    <endPage>44</endPage>
+    <keywords>
+      <keyword>mappings with finite and bounded distortion</keyword>
+      <keyword>moduli of curves</keyword>
+      <keyword>homeomorphisms</keyword>
+      <keyword>convergence</keyword>
+      <keyword>space mappings </keyword>
+    </keywords>
+    <abstract>Various theorems on the convergence of general spatial homeomorphisms are proved and, on this basis, convergence theorems for classes of the so-called ring $Q$--homeomorphisms are obtained. These results will have wide applications to Sobolev's mappings. </abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2013/39_1/34-44.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>On solutions of one convolution equation generated by a ``deep zero''</title>
+    <authors>
+      <author>Dilnyi V.</author>
+      <author>Sheparovych   I. </author>
+    </authors>
+    <startPage>45</startPage>
+    <endPage>53</endPage>
+    <keywords>
+      <keyword>Hardy space</keyword>
+      <keyword>entire function</keyword>
+      <keyword>convolution equation </keyword>
+    </keywords>
+    <abstract>We consider a convolution type equation in the Smirnov spaces in a semi-strip. We obtain a description of solutions for the case when the characteristic function of the equation has a "deep zero" at infinity.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2013/39_1/45-53.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Estimates from below for characteristic functions of probability laws</title>
+    <authors>
+      <author>Parolya M. I.</author>
+      <author>Sheremeta M. M.</author>
+    </authors>
+    <startPage>54</startPage>
+    <endPage>66</endPage>
+    <keywords>
+      <keyword>characteristic function</keyword>
+      <keyword>probability law</keyword>
+      <keyword>lower estimate </keyword>
+    </keywords>
+    <abstract></abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2013/39_1/54-66.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Integral representations for harmonic and biharmonic functions in the unit ball (in Russian)</title>
+    <authors>
+      <author>Yaremko O. E.</author>
+    </authors>
+    <startPage>67</startPage>
+    <endPage>73</endPage>
+    <keywords>
+      <keyword>extension problem</keyword>
+      <keyword>Poisson formula</keyword>
+      <keyword>moment problems</keyword>
+      <keyword>biharmonic function</keyword>
+      <keyword>harmonic function</keyword>
+      <keyword>unit ball </keyword>
+    </keywords>
+    <abstract>In the paper an analytical solution of the analytic continuation problem in the unit N-dimensional ball by its values on the inner sphere is found. A generalization of the classical Poisson formula is obtained. A solution of the similar analytic continuation problem for certain known operator expressions of a given potential on the inner sphere is obtained. A new result of the moment problem making a connection between the moment problem on a segment and on the half-axis is found.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2013/39_1/67-73.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>The problem on conjugation on solutions of a hyperbolic system along unknown contact boundary in sector (in Ukrainian)</title>
+    <authors>
+      <author>Andrusyak R. V.</author>
+      <author>Burdeyna N. O.</author>
+      <author>Kyrylych V. M.</author>
+    </authors>
+    <startPage>74</startPage>
+    <endPage>83</endPage>
+    <keywords>
+      <keyword>hyperbolic problem</keyword>
+      <keyword>quasi-linear equations</keyword>
+      <keyword>free discontinuity line</keyword>
+      <keyword>method of characteristic </keyword>
+    </keywords>
+    <abstract>The conditions of solvability  in the generalized sense of a problem with unknown breaking line of initial data for a hyperbolic quasilinear system with two independent variables in the sector were established. Applying the method of characteristics a solution of the problem is reduced to finding the fixed point of the operator whose  existence and uniqueness are proved using the Banach theorem.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2013/39_1/74-83.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Moment conditions for functions with zero integrals over congruent balls</title>
+    <authors>
+      <author>Volchkov V. V.</author>
+      <author>Volchkov Vit. V.</author>
+    </authors>
+    <startPage>84</startPage>
+    <endPage>92</endPage>
+    <keywords>
+      <keyword>spherical means</keyword>
+      <keyword>mean periodicity </keyword>
+    </keywords>
+    <abstract>We consider the question of precise conditions ensuring that a function having zero integrals over all balls of fixed radius is equal to zero. We completely investigate the case where together with zero integrals over congruent balls a function has zero first moments over these balls.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2013/39_1/84-92.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Diagonals of separately continuous multi-valued mappings (in Ukrainian)</title>
+    <authors>
+      <author>Mykhaylyuk V. V.</author>
+      <author>Sobchuk O. V.</author>
+      <author>Fotiy O. G.</author>
+    </authors>
+    <startPage>93</startPage>
+    <endPage>98</endPage>
+    <keywords>
+      <keyword>separately continuous mapping</keyword>
+      <keyword>multi-valued mapping</keyword>
+      <keyword>diagonal of mapping </keyword>
+    </keywords>
+    <abstract>We solve the problem on a construction of a separately continuous mapping with the given diagonal, which is the pointwise limit of a sequence of continuous mappings with values in an equiconnected space. We construct an example of a closed-valued separately continuous mapping $f\colon [0,1]^2\multimap \mathbb R$ with an everywhere discontinuous diagonal. The example shows that the results on points of joint continuity for compact-valued separately continuous mappings can not be generalized to the case of closed-valued mappings.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2013/39_1/93-98.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>A modified criterion of boundedness of $L$-index in direction</title>
+    <authors>
+      <author>Bandura A. I.</author>
+    </authors>
+    <startPage>99</startPage>
+    <endPage>102</endPage>
+    <keywords>
+      <keyword>entire function of several variables</keyword>
+      <keyword>bounded L-index in direction </keyword>
+    </keywords>
+    <abstract>A new criterion of boundedness of L-index in direction is obtained.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2013/39_1/99-102.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Hypercyclic operators on Lipschitz spaces</title>
+    <authors>
+      <author>Dubey M. V.</author>
+      <author>Mozhyrovska Z. H.</author>
+      <author>Zagorodnyuk A. V.</author>
+    </authors>
+    <startPage>103</startPage>
+    <endPage>106</endPage>
+    <keywords>
+      <keyword>hypercyclic operators</keyword>
+      <keyword>free Banach spaces</keyword>
+      <keyword>little Lipschitz space </keyword>
+    </keywords>
+    <abstract>We consider hypercyclic operators on free Banach spaces and little Lipschitz spaces which are some kind of generalizations of shift operators and composition operators respectively.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2013/39_1/103-106.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>On estimates of a fractional counterpart of the logarithmic derivative of a meromorphic function</title>
+    <authors>
+      <author>Chyzhykov I. E.</author>
+      <author>Semochko N. S.</author>
+    </authors>
+    <startPage>107</startPage>
+    <endPage>112</endPage>
+    <keywords>
+      <keyword>Riemann-Liouville operator</keyword>
+      <keyword>fractional derivative</keyword>
+      <keyword>fractional differential equation</keyword>
+      <keyword>logarithmic derivative</keyword>
+      <keyword>meromorphic function</keyword>
+      <keyword>Nevanlinna’s characteristic</keyword>
+      <keyword>growth </keyword>
+    </keywords>
+    <abstract>We consider the problem of finding lower bounds for growth of solutions of a fractional differential equation in the complex plane.   We estimate a fractional integral of the logarithmic derivative of a meromorphic function.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2013/39_1/107-112.pdf</fullTextUrl>
+  </record>
+</records>

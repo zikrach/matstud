@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='utf-8'?>
+<records>
+  <record>
+    <title>Elements of high order in Artin-Shreier extensions of finite fields(in Ukrainian)</title>
+    <authors>
+      <author>Popovych R. B. </author>
+    </authors>
+    <startPage>115</startPage>
+    <endPage>118</endPage>
+    <keywords>
+      <keyword>finite field</keyword>
+      <keyword>multiplicative order </keyword>
+    </keywords>
+    <abstract>We construct explicitly in any finite field of the form $F_{p^p}$ elements with multiplicative order larger than $4^p$.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2013/39_2/115-118.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Topological and ditopological unosemigroups</title>
+    <authors>
+      <author>Banakh T.</author>
+      <author>Pastukhova I. </author>
+    </authors>
+    <startPage>119</startPage>
+    <endPage>133</endPage>
+    <keywords>
+      <keyword>topological semigroup</keyword>
+      <keyword>unosemigroup</keyword>
+      <keyword>ditopological unosemigroup </keyword>
+    </keywords>
+    <abstract>In this paper we introduce and study a new topologo-algebraic structure called a (di)topological unosemigroup. This is a topological semigroup endowed with continuous unary operations of left and right units (which have certain continuous division property called the dicontinuity). We show that the class of ditopological unosemigroups contains all topological groups, all topological semilattices, all uniformizable topological unosemigroups, all compact topological unosemigroups, and is closed under the operations of taking subunosemigroups, Tychonoff product, reduced product, semidirect product, and the Hartman-Mycielski extension.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2013/39_2/119-133.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Wiman's type inequality for some double power series</title>
+    <authors>
+      <author>Kuryliak A. O.</author>
+      <author>Shapovalovska L. O.</author>
+      <author>Skaskiv O. B. </author>
+    </authors>
+    <startPage>134</startPage>
+    <endPage>141</endPage>
+    <keywords>
+      <keyword>maximum modulus</keyword>
+      <keyword>maximal term</keyword>
+      <keyword>double power series</keyword>
+      <keyword>Wiman’s type inequality </keyword>
+    </keywords>
+    <abstract>In this paper we prove some analogue of Wiman's inequality for analytic functions $f(z_1,z_2)$ in the domain $\mathbb{T}=\{z\in\mathbb C^2\colon|z_1|</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2013/39_2/134-141.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Description of Pompeiu sets in terms of approximations of their indicator functions</title>
+    <authors>
+      <author>Ochakovskaya O. A. </author>
+    </authors>
+    <startPage>142</startPage>
+    <endPage>149</endPage>
+    <keywords>
+      <keyword>Pompeiu property</keyword>
+      <keyword>mean periodicity </keyword>
+    </keywords>
+    <abstract>Let $H$ be an open upper half-space in $\mathbb R^n$, $n\geq2$, and assume that $A$ is a non-empty, open, bounded subset of $\mathbb R^n$ such that $\overline{A}\subset H$ and the exterior of $A$ is connected. Let $p\in[2, +\infty).$ It is proved that there is a nonzero function with zero integrals over all sets in  $\mathbb R^n$ congruent to $A$ if and only if the indicator function of $A$ is the limit in $L^p(H)$ of a sequence of linear combinations of indicator functions of balls in $H$ with radii proportional to positive zeros of the  Bessel function $J_{n/2}$. The proportionality coefficient here is the same for all balls and depends only on $A$.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2013/39_2/142-149.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>1D nonnegative Schrodinger operators with point interactions</title>
+    <authors>
+      <author>Kovalev Yu. G. </author>
+    </authors>
+    <startPage>150</startPage>
+    <endPage>163</endPage>
+    <keywords>
+      <keyword>point interaction</keyword>
+      <keyword>Riesz basis</keyword>
+      <keyword>boundary triplet</keyword>
+      <keyword>the Friedrichs extension</keyword>
+      <keyword>the Krein extension </keyword>
+    </keywords>
+    <abstract>Let $Y$ be an infinite discrete set of points in $\mathbb R $, satisfying the condition $\inf\{|y-y'|,\;  y,y'\in Y, y'\ne y\}&gt;0.$ In the paper we prove that the systems $\{\delta(x-y)\}_{y\in Y}, \;\{\delta'(x-y)\}_{y\in Y}, \{\delta(x-y),\;\delta'(x-y)\}_{y\in Y}$  form Riesz bases in the corresponding closed linear spans in the Sobolev spaces  $W_2^{-1}(\mathbb R )$ and $W_2^{-2}(\mathbb R )$. As an application, we prove  the transversalness of the Friedrichs and Kre\u\i n nonnegative selfadjoint extensions of  the nonnegative symmetric operators $A_0$, $A'$,  and $H_0$  defined as restrictions of the operator $A =-\frac{ d^2}{ dx^2},$ $\mathop{\rm dom} (A)=W^2_2(\mathbb R )$ to the linear manifolds $\mathop{\rm dom} (A_0)=\left\{ f\in W_2^2(\mathbb{R})\colon f(y)=0,\;  y\in Y \right\}$, $\mathop{\rm dom} (A')=\{ g\in W_2^2(\mathbb{R})\colon  g'(y)=0,\;  y\in Y \},$ and $\mathop{\rm dom} (H_0)=\left\{f\in W_2^2(\mathbb{R})\colon  f(y)=0,\;f'(y)=0,\;  y\in Y \right\}$, respectively. Using the divergence forms, the basic nonnegative boundary triplets for $A^*_0$, $A'^*$, and $H^*_0$ are constructed.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2013/39_2/150-163.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>A new (1+1)-dimensional matrix $k$-constrained KP hierarchy</title>
+    <authors>
+      <author>Chvartatskyi O. I.</author>
+      <author>Sydorenko Yu. M. </author>
+    </authors>
+    <startPage>164</startPage>
+    <endPage>177</endPage>
+    <keywords>
+      <keyword>integrable systems</keyword>
+      <keyword>constraints of KP hierarchy</keyword>
+      <keyword>stationary Davey-Stewartson system </keyword>
+    </keywords>
+    <abstract>We introduce a new generalization of matrix (1+1)-dimensional $k$-constrained KP hierarchy. The new hierarchy contains matrix generalizations of stationary DS systems, (2+1)-dimensional modified Korteweg-de Vries equation and the Nizhnik equation. A binary Darboux transformation method is proposed for integration of systems from this hierarchy.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2013/39_2/164-177.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Integral and differential test for convergence of operator series(in Ukrainian)</title>
+    <authors>
+      <author>Slyusarchuk V. Yu. </author>
+    </authors>
+    <startPage>178</startPage>
+    <endPage>189</endPage>
+    <keywords>
+      <keyword>operator series</keyword>
+      <keyword>integral test</keyword>
+      <keyword>differential test </keyword>
+    </keywords>
+    <abstract>We obtain the integral and differential conditions for convergence of operator series.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2013/39_2/178-189.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Approximation of functions from generalized Nikol'skii-Besov classes by entire functions in Lebesgue spaces(in Ukrainian)</title>
+    <authors>
+      <author>Myroniuk V. V.</author>
+      <author>Yanchenko S. Ya. </author>
+    </authors>
+    <startPage>190</startPage>
+    <endPage>202</endPage>
+    <keywords>
+      <keyword>approximation</keyword>
+      <keyword>functional class</keyword>
+      <keyword>entire function </keyword>
+    </keywords>
+    <abstract>Exact-order estimates  for the approximations of functions of classes $S^{\Omega}_{p,{\theta}}B(\mathbb{R}^d)$ by entire functions with the spectrum of a special form in the space $L_q(\mathbb{R}^d)$ for some relations between the parameters $p$ and $q$, are established.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2013/39_2/190-202.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Topological classification of the hyperspaces of polyhedral convex sets in normed spaces</title>
+    <authors>
+      <author>Hetman I. V. </author>
+    </authors>
+    <startPage>203</startPage>
+    <endPage>211</endPage>
+    <keywords>
+      <keyword>hyperspace</keyword>
+      <keyword>polyhedral convex set </keyword>
+    </keywords>
+    <abstract> We prove that, for a normed space $X$ of dimension $\dim(X)\ge 2$ the space  $\mathrm{PConv}_H(X)$ of non-empty polyhedral convex subsets of $X$ endowed with the Hausdorff metric is homeomorphic to the topological sum $\{0\}\oplus |X^*|\times (\mathbb R\oplus (\mathbb R\times\bar{\mathbb{R}}_+)\oplus l_2^f)$, where the cardinal $|X^*|$ is endowed with the discrete topology.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2013/39_2/203-211.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Small scattered topological invariants</title>
+    <authors>
+      <author>Chatyrko V.</author>
+      <author>Hattori Ya. </author>
+    </authors>
+    <startPage>212</startPage>
+    <endPage>222</endPage>
+    <keywords>
+      <keyword>small transfinite inductive dimension, separation dimension, countable-dimensional spaces, $\sigma$-hereditarily
+disconnected spaces </keyword>
+    </keywords>
+    <abstract> We present a unified approach to define {dimension functions like} $\mathop{{\rm trind}}$, $\mathop{{\rm trind}}_p$, $\mathop{{\rm trt}}$ and $\mathop{{\rm p}}$. We show how  some similar facts on these functions  can be proved similarly. Moreover, several new classes of infinite-dimensional spaces close to  the classes of countable-dimensional and $\sigma$-hereditarily disconnected ones are introduced. We prove a compactification theorem for these  classes.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2013/39_2/212-222.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>On the book of V. T. Ryabukha ``Fermat's last theorem. Three elementary proofs''(in Ukrainian)</title>
+    <authors>
+      <author>Zarichnyi M. М. </author>
+    </authors>
+    <startPage>223</startPage>
+    <endPage>224</endPage>
+    <keywords>
+      <keyword>Fermat Last Theorem </keyword>
+    </keywords>
+    <abstract>A critical note on the book “Fermat Last Theorem. Three elementary proofs” by V. T. Ryabukha.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2013/39_2/223-224.pdf</fullTextUrl>
+  </record>
+</records>

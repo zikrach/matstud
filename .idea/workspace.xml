@@ -4,9 +4,18 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91a1a4bc-688f-4040-8ede-647dee92c36f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates_win_12_01_2014.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/article.py" />
+    <list default="true" id="91a1a4bc-688f-4040-8ede-647dee92c36f" name="Default" comment="Add Article class, add get_article_content and get_article_content_error, відлагоджено отримання даних статті">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/35_1-xml.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/35_2-xml.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/36_1-xml.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/36_2-xml.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/37_1-xml.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/37_2-xml.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/38_1-xml.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/38_2-xml.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/39_1-xml.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/39_2-xml.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/40_1-xml.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parse.py" afterPath="$PROJECT_DIR$/parse.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -21,7 +30,7 @@
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/home$article.coverage" NAME="article Coverage Results" MODIFIED="1389549470066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/templates" />
-    <SUITE FILE_PATH="coverage/home$parse.coverage" NAME="parse Coverage Results" MODIFIED="1389557992701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/home$parse.coverage" NAME="parse Coverage Results" MODIFIED="1389610081457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -35,10 +44,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="issue_xml.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/issue_xml.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="331" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="770">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="parse.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/parse.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="141" column="0" selection-start="5404" selection-end="5404" vertical-scroll-proportion="1.2844827" vertical-offset="2357" max-vertical-offset="3234">
+            <state line="138" column="8" selection-start="5244" selection-end="5257" vertical-scroll-proportion="-0.2975352" vertical-offset="3205" max-vertical-offset="4268">
               <folding>
                 <element signature="e#83#93#0" expanded="true" />
               </folding>
@@ -50,15 +68,6 @@
         <entry file="file://$PROJECT_DIR$/templates/article.py">
           <provider selected="true" editor-type-id="text-editor">
             <state line="32" column="4" selection-start="1022" selection-end="1081" vertical-scroll-proportion="0.0" vertical-offset="208" max-vertical-offset="924">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="issue_xml.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/issue_xml.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="20" selection-start="205" selection-end="205" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="770">
               <folding />
             </state>
           </provider>
@@ -83,8 +92,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/style.css" />
-        <option value="$PROJECT_DIR$/template.html" />
         <option value="$PROJECT_DIR$/index_template.html" />
         <option value="$PROJECT_DIR$/templates/article/3-8.html" />
         <option value="$PROJECT_DIR$/templates/index/index.html" />
@@ -93,14 +100,19 @@
         <option value="$PROJECT_DIR$/templates/index/index_template.html" />
         <option value="$PROJECT_DIR$/templates/index/style.css" />
         <option value="$PROJECT_DIR$/templates/article.py" />
+        <option value="$PROJECT_DIR$/40-app.xml" />
+        <option value="$PROJECT_DIR$/41-app.xml" />
+        <option value="$PROJECT_DIR$/xml/401-xml.xml" />
+        <option value="$PROJECT_DIR$/xml/40_1-xml.xml" />
+        <option value="$PROJECT_DIR$/xml/36_2-xml.xml" />
+        <option value="$PROJECT_DIR$/xml/37_2-xml.xml" />
+        <option value="$PROJECT_DIR$/xml/38_2-xml.xml" />
         <option value="$PROJECT_DIR$/parse.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1" />
-    <option name="y" value="23" />
-    <option name="width" value="1918" />
+    <option name="width" value="958" />
     <option name="height" value="1026" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -154,6 +166,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -169,6 +182,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="home" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="home" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="home" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xml" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -224,14 +251,13 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.lastSelected" value="reference.idesettings.emmet" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../dict" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../virtualenv/python3/virt_Python3/virt_Python3/Functor/xml_parcer.py" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
   </component>
@@ -481,7 +507,11 @@
       <created>1389543508944</created>
       <updated>1389543508944</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add Article class, add get_article_content and get_article_content_error, відлагоджено отримання даних статті">
+      <created>1389558339786</created>
+      <updated>1389558339786</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -505,29 +535,29 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="23" width="1918" height="1026" extended-state="0" />
-    <editor active="false" />
+    <frame x="0" y="0" width="958" height="1026" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2433155" sideWeight="0.67254686" order="3" side_tool="false" content_ui="tabs" x="114" y="163" width="1718" height="826" />
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32745314" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.63736266" sideWeight="0.75" order="3" side_tool="false" content_ui="tabs" x="114" y="163" width="1718" height="826" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3270925" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32855567" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32929516" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5722161" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296582" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296582" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32855567" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25882354" sideWeight="0.67254686" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39801544" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25027564" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26373628" sideWeight="0.6729075" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5715859" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296582" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32929516" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296582" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39801544" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -543,7 +573,8 @@
     <MESSAGE value="додано метод get_content_volume_error" />
     <MESSAGE value="Виправлені всі помилки по опрацюванню списку статей в номерах журналу" />
     <MESSAGE value="Додано template змісту і сторінки про статтю" />
-    <option name="LAST_COMMIT_MESSAGE" value="Додано template змісту і сторінки про статтю" />
+    <MESSAGE value="Add Article class, add get_article_content and get_article_content_error, відлагоджено отримання даних статті" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Article class, add get_article_content and get_article_content_error, відлагоджено отримання даних статті" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -554,43 +585,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/parse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="83" selection-end="83" vertical-scroll-proportion="0.0" vertical-offset="88" max-vertical-offset="220">
-          <folding>
-            <element signature="e#83#93#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/parse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="83" selection-end="83" vertical-scroll-proportion="0.0" vertical-offset="88" max-vertical-offset="220">
-          <folding>
-            <element signature="e#83#93#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../lib/python3.3/site-packages/bs4/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="160" column="0" selection-start="6010" selection-end="6010" vertical-scroll-proportion="0.33333334" vertical-offset="2912" max-vertical-offset="8668">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-3.1484098" vertical-offset="1782" max-vertical-offset="10252">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="0" selection-start="1164" selection-end="1164" vertical-scroll-proportion="0.6312849" vertical-offset="566" max-vertical-offset="924" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../lib/python3.3/site-packages/bs4/element.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="904" column="0" selection-start="32455" selection-end="32455" vertical-scroll-proportion="0.33281973" vertical-offset="19584" max-vertical-offset="35486">
@@ -600,42 +594,42 @@
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/pycharm.jar!/resources/html5-schema/meta-ext.rnc">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="23" selection-start="186" selection-end="186" vertical-scroll-proportion="0.16949153" vertical-offset="0" max-vertical-offset="1364">
-          <folding />
-        </state>
+        <state line="5" column="23" selection-start="186" selection-end="186" vertical-scroll-proportion="0.16949153" vertical-offset="0" max-vertical-offset="1364" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/index/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="1" selection-start="254" selection-end="254" vertical-scroll-proportion="0.6068966" vertical-offset="0" max-vertical-offset="580">
-          <folding />
-        </state>
+        <state line="16" column="1" selection-start="254" selection-end="254" vertical-scroll-proportion="0.6068966" vertical-offset="0" max-vertical-offset="580" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/index/index_template.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="12" selection-start="556" selection-end="556" vertical-scroll-proportion="0.6938776" vertical-offset="0" max-vertical-offset="2046">
-          <folding />
-        </state>
+        <state line="17" column="12" selection-start="556" selection-end="556" vertical-scroll-proportion="0.6938776" vertical-offset="0" max-vertical-offset="2046" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/article/template.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="127" column="36" selection-start="5088" selection-end="5088" vertical-scroll-proportion="5.1836734" vertical-offset="0" max-vertical-offset="3102">
-          <folding />
-        </state>
+        <state line="127" column="36" selection-start="5088" selection-end="5088" vertical-scroll-proportion="5.1836734" vertical-offset="0" max-vertical-offset="3102" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/article/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="0" selection-start="510" selection-end="510" vertical-scroll-proportion="0.62068963" vertical-offset="454" max-vertical-offset="1034">
-          <folding />
-        </state>
+        <state line="37" column="0" selection-start="510" selection-end="510" vertical-scroll-proportion="0.62068963" vertical-offset="454" max-vertical-offset="1034" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/article/3-8.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2178">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2178" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lib/python3.3/site-packages/bs4/builder/_lxml.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="125" column="0" selection-start="4470" selection-end="4470" vertical-scroll-proportion="0.33333334" vertical-offset="2349" max-vertical-offset="4972" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../virtualenv/python3/virt_Python3/virt_Python3/Functor/xml_parcer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="14" selection-start="480" selection-end="480" vertical-scroll-proportion="0.46589595" vertical-offset="15" max-vertical-offset="880">
           <folding />
         </state>
       </provider>
@@ -647,23 +641,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/issue_xml.xml">
+    <entry file="file://$USER_HOME$/.PyCharm30/system/python_stubs/-2050006207/lxml/etree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="20" selection-start="205" selection-end="205" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="770">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="651">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../lib/python3.3/site-packages/bs4/builder/_lxml.py">
+    <entry file="file://$PROJECT_DIR$/issue_xml.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="125" column="0" selection-start="4470" selection-end="4470" vertical-scroll-proportion="0.33333334" vertical-offset="2349" max-vertical-offset="4972">
+        <state line="0" column="0" selection-start="0" selection-end="331" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="770">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xml/38_2-xml.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="234" column="16" selection-start="13207" selection-end="13207" vertical-scroll-proportion="3.050571" vertical-offset="3278" max-vertical-offset="5500">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xml/37_2-xml.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="232" column="160" selection-start="12503" selection-end="12503" vertical-scroll-proportion="0.5862069" vertical-offset="4730" max-vertical-offset="5368">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xml/36_2-xml.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="195" column="30" selection-start="12204" selection-end="12204" vertical-scroll-proportion="0.5862069" vertical-offset="3916" max-vertical-offset="4554">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/parse.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="141" column="0" selection-start="5404" selection-end="5404" vertical-scroll-proportion="1.2844827" vertical-offset="2357" max-vertical-offset="3234">
+        <state line="138" column="8" selection-start="5244" selection-end="5257" vertical-scroll-proportion="-0.2975352" vertical-offset="3205" max-vertical-offset="4268">
           <folding>
             <element signature="e#83#93#0" expanded="true" />
           </folding>

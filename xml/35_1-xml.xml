@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='utf-8'?>
+<records>
+  <record>
+    <title>A version of Carleman's formula and summation of the Riemann $\zeta$-function logarithm on the critical line</title>
+    <authors>
+      <author>Brydun A. M.</author>
+      <author>Yatsulka P. A. </author>
+    </authors>
+    <startPage>3</startPage>
+    <endPage>8</endPage>
+    <keywords>
+      <keyword>$\zeta$-function</keyword>
+      <keyword>Carleman's formula </keyword>
+    </keywords>
+    <abstract>A version of Carleman's formula for functions holomorphic in a rectangle is proved. It is applied to the evaluation of the integral of $\zeta$-function logarithm with the summing factor $\exp(-t)$ along the critical line. This allowed to obtain a new statement equivalent to the Riemann hypothesis.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/35_1/3-8.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>The rank of projection-algebraic representations of some differential operators</title>
+    <authors>
+      <author>Bihun O.</author>
+      <author>Prytula M. </author>
+    </authors>
+    <startPage>9</startPage>
+    <endPage>21</endPage>
+    <keywords>
+      <keyword>Lie-algebraic method</keyword>
+      <keyword>boundary value problem </keyword>
+    </keywords>
+    <abstract>The Lie-algebraic method approximates differential operators that are formal polynomials of $\{1,x,\frac{d}{dx}\}$ by linear operators acting on a finite dimensional space of polynomials. In this paper we prove that the rank of the $n$-dimensional representation of the operator $$K=a_k \frac{d^k}{dx^k}+a_{k+1}\frac{d^{k+1}}{dx^{k+1}}+\ldots +a_{k+p}\frac{d^{k+p}}{dx^{k+p}}$$ is $n-k$ and conclude that the Lie-algebraic reductions of differential equations allow to approximate only {\it some} of solutions of the differential equation $K[u]=f$. We show how to circumvent this obstacle when solving boundary value problems by making an appropriate change of variables. We generalize our results to the case of several dimensions and illustrate them with numerical tests.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/35_1/9-21.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Congruences of the semigroup $\mathcal{IO}_{\mathbb{N}}$ (in Ukrainian)</title>
+    <authors>
+      <author>Pyekhtyeryev V. O.</author>
+      <author>Tratyak K. S. </author>
+    </authors>
+    <startPage>22</startPage>
+    <endPage>27</endPage>
+    <keywords>
+      <keyword>congruence</keyword>
+      <keyword>natural order </keyword>
+    </keywords>
+    <abstract>We describe congruences of the semigroup $\mathcal{IO}_{\mathbb{N}}$ of all order-preserving partial bijections on the set $\mathbb{N}$ with the natural order.  In particular, we prove that this semigroup contains only one non-Rees congruence.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/35_1/22-27.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>$ACL$  and differentiability of open discrete ring $(p,Q)$-mappings</title>
+    <authors>
+      <author>Salimov R. R.</author>
+      <author>Sevost'yanov E. A. </author>
+    </authors>
+    <startPage>28</startPage>
+    <endPage>36</endPage>
+    <keywords>
+      <keyword>$(p,Q)$-mapping</keyword>
+      <keyword>quasiregular mappings </keyword>
+    </keywords>
+    <abstract>We study the so-called $(p,Q)$-mappings which naturally generalize quasiregular mappings. It is proved that open discrete ring $(p,Q)$-mappings are differentiable almost everywhere as $p&gt;n-1$ and locally integrable $Q.$ Furthermore, we prove that open discrete $(p,Q)$-mappings belong to the class $ACL$ in ${\Bbb R}^n$ and $f\in W_{\rm loc}^{1,1}$ the same conditions on $p$ and $Q.$</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/35_1/28-36.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Three-term exponential asymptotic for the maximal term of an entire Dirichlet series (in Ukrainian)</title>
+    <authors>
+      <author>Hrytsiv M. M.</author>
+      <author>Sheremeta M. M. </author>
+    </authors>
+    <startPage>37</startPage>
+    <endPage>49</endPage>
+    <keywords>
+      <keyword>Dirichlet series</keyword>
+      <keyword>Three-term exponential asymtotic </keyword>
+    </keywords>
+    <abstract>Conditions on the coefficients and the exponents of an entire Dirichlet series, under which for its maximal term the asymptotic equality $\ln\mu(\sigma)=T_1e^{\varrho_1\sigma}+T_2e^{\varrho_2\sigma}+(\tau+o(1))e^{\varrho\sigma}$\  $(\sigma\to +\infty)$ is valid, where  $00$, $T_{2}\in R\backslash  \{0\}$ and $\tau\in R\backslash \{0\}$, are found.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/35_1/37-49.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Subharmonic functions and electric fields in ball layers. II</title>
+    <authors>
+      <author>Gnatiuk O. P.</author>
+      <author>Kondratyuk  A. A. </author>
+    </authors>
+    <startPage>50</startPage>
+    <endPage>59</endPage>
+    <keywords>
+      <keyword>subharmonic function</keyword>
+      <keyword>Nevanlinna characteristic </keyword>
+    </keywords>
+    <abstract>In this sequel to [1] we study a special case $BL(\frac{1}{r},r),\ r&gt;1$. Also the explicit representation of a subharmonic extension for a subharmonic function $u(x)$ near a removable point is obtained. Moreover, the diverse Nevanlinna characteristics are compared.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/35_1/50-59.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Existence of periodic travelling waves in systems of nonlinear oscillators on 2D-lattice (in Ukrainian)</title>
+    <authors>
+      <author>Bak S. M. </author>
+    </authors>
+    <startPage>60</startPage>
+    <endPage>65</endPage>
+    <keywords>
+      <keyword>nonlinear oscillator</keyword>
+      <keyword>periodic travelling wave </keyword>
+    </keywords>
+    <abstract>It is considered the system of differential equations that describes the dynamics of an infinite system of linearly coupled nonlinear oscillators on 2D-lattice. Results on existence of the periodic travelling waves are obtained.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/35_1/60-65.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Approximation of classes $B^{\omega}_{p,\theta}$ of periodic functions of several variables by polynomials with spectrum from cubic areas (in Ukrainian)</title>
+    <authors>
+      <author>Stasyuk S. A. </author>
+    </authors>
+    <startPage>66</startPage>
+    <endPage>73</endPage>
+    <keywords>
+      <keyword>periodic
+functions</keyword>
+      <keyword>trigonometric polynomial </keyword>
+    </keywords>
+    <abstract>We have obtained exact order estimates for error of approximation of classes $B^{\omega}_{p,\theta}$      of periodic functions of several variables by trigonometric polynomials with spectrum from cubic areas.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/35_1/66-73.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Factorial analogue of the local quasi-duo domain (in Ukrainian)</title>
+    <authors>
+      <author>Vasyunyk I. S.</author>
+      <author>Zabavsky B. V. </author>
+    </authors>
+    <startPage>74</startPage>
+    <endPage>77</endPage>
+    <keywords>
+      <keyword>ideal of ring</keyword>
+      <keyword>right Bezout domain </keyword>
+    </keywords>
+    <abstract>Its shown that if the R—quasi-duo the right Bezout domain, with the unique maximally non-principal N ideal, then N is an ideal of ring. That is to say R is a factorial analogue of the local ring.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/35_1/74-77.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Vector--valued functional calculus for a convolution algebra of distributions on cone</title>
+    <authors>
+      <author>Lopushansky O. V.</author>
+      <author>Sharyn  S. V.</author>
+      <author>Solomko  A. V. </author>
+    </authors>
+    <startPage>78</startPage>
+    <endPage>90</endPage>
+    <keywords>
+      <keyword>Fourier image</keyword>
+      <keyword>functional calculus </keyword>
+    </keywords>
+    <abstract>For the Fourier image $\widehat{D}'_\Gamma$ of the algebra $D'_\Gamma$ of the distributions with supports on a cone $\Gamma$ the functional calculus for generators of $n$-parametric $(C_o)$-semigroups of operators is determined. For this purpose, we consider construction of the dual pair $\langle \widehat{D}'_\Gamma, \widehat{D}_\Gamma\rangle$, and provide some examples with respect to the formula of operator calculus.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/35_1/78-90.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Sur les composantes non separables des hyperespaces avec la distance de Hausdorff</title>
+    <authors>
+      <author>Cauty R. </author>
+    </authors>
+    <startPage>91</startPage>
+    <endPage>105</endPage>
+    <keywords>
+      <keyword>metric space</keyword>
+      <keyword>Hausdorff distance </keyword>
+    </keywords>
+    <abstract>Let $(X,d)$ be a connected non compact metric space. Suppose the metric $d$ convex and such that every closed bounded subset of $X$ is compact. Let $\mathcal F(X)$ be the space of nonvoid closed subsets of $X$ with the Hausdorff distance associated to $d$. We prove that every component of $\mathcal F(X)$ which contains an unbounded closed subset is homeomorphic to the Hilbert space $\ell^2(2^{\aleph_0})$.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/35_1/91-105.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>The relations between separately and jointly proprities of multi-valued mappings (in Ukrainian)</title>
+    <authors>
+      <author>Maslyuchenko V. K.</author>
+      <author>Mykhaylyuk V. V.</author>
+      <author>Fotiy O. G. </author>
+    </authors>
+    <startPage>106</startPage>
+    <endPage>112</endPage>
+    <keywords>
+      <keyword>topological space</keyword>
+      <keyword>separately continuous mapping </keyword>
+    </keywords>
+    <abstract>We prove the following statement. Let $X$ be a topological space, $Y$ a topological $T_1$ first-countable space, $Z$ a metrizable locally compact $\sigma$-compact space and $F\colon X\times Y \to Z$ a close-valued separately continuous mapping. Then the set $C_y(F)$ is residual in $X$ for each $y \in Y$.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/35_1/106-112.pdf</fullTextUrl>
+  </record>
+</records>

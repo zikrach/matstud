@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='utf-8'?>
+<records>
+  <record>
+    <title>Local homomorphisms of modular Lie algebras of Cartan type (in Ukrainian)</title>
+    <authors>
+      <author>Bedratyuk L. P. </author>
+    </authors>
+    <startPage>115</startPage>
+    <endPage>120</endPage>
+    <keywords>
+      <keyword>Lie algebra</keyword>
+      <keyword>symmetrical invariants </keyword>
+    </keywords>
+    <abstract>Let  $L({\bf m})$   be one  of the finite dimensional  modular Lie algebras  $W_n({\bf m}),$ $S_n({\bf m}),$ $  H_n({\bf m})$  and  let $L$  be one  of corresponding $p$-algebras  $W_n,$ $S_n,$ $ H_n.$ We  prove that  there exists a nontrivial map from the  algebra $S(L)^L$ of symmetrical invariants  into   the  algebra $S(L({\bf m}))^{L({\bf m}) }.$</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/35_2/115-120.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Preradical and radical functors in different categories</title>
+    <authors>
+      <author>Burban N. Yu.</author>
+      <author>Horbachuk O. L. </author>
+    </authors>
+    <startPage>121</startPage>
+    <endPage>127</endPage>
+    <keywords>
+      <keyword>preradical</keyword>
+      <keyword>category </keyword>
+    </keywords>
+    <abstract>Usually preradicals in the categories of modules or rings are investigated. This notion for an arbitrary category are generalized.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/35_2/121-127.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>On the lattice of quasi-filters of left congruence on a principal left ideal semigroup</title>
+    <authors>
+      <author>Komarnitskiy M. Ya.</author>
+      <author>Oliynyk R. M. </author>
+    </authors>
+    <startPage>128</startPage>
+    <endPage>130</endPage>
+    <keywords>
+      <keyword>lattice structure</keyword>
+      <keyword>quasi-filter </keyword>
+    </keywords>
+    <abstract>The lattice structure on quasi-filters of left congruence on a principal left ideal semigroup are described.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/35_2/128-130.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>On the best possible description of an exceptional set in asymptotic estimates for Laplace--Stieltjes integrals</title>
+    <authors>
+      <author>Skaskiv O. B.</author>
+      <author>Zikrach D. Yu. </author>
+    </authors>
+    <startPage>131</startPage>
+    <endPage>141</endPage>
+    <keywords>
+      <keyword>Laplace–Stieltjes integral</keyword>
+      <keyword>exceptional set </keyword>
+    </keywords>
+    <abstract>For the Laplace–Stieltjes integrals new description of the exceptional set in asymptotic upper estimates in terms of the maximum of the integrand function is obtained.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/35_2/131-141.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>The indicator of entire functions with rapidly oscillating coefficients</title>
+    <authors>
+      <author>Filevych P. V. </author>
+    </authors>
+    <startPage>142</startPage>
+    <endPage>148</endPage>
+    <keywords>
+      <keyword>indicator of entire function</keyword>
+      <keyword>Hadamard gap </keyword>
+    </keywords>
+    <abstract>Let $f(z)=\sum_{n=0}^\infty c_nz^n$ be an entire function of order $\rho_f\in(0,+\infty)$, let $\sigma_f$ and $h_f(\theta)$ be the type and the indicator of the function $f$, respectively, let $(p_n)$ be a sequence of positive integers with Hadamard gaps and $f_t(z)=\sum_{n=0}^\infty e^{ip_nt}c_nz^n$, where $t\in\mathbb{R}$. Then, for almost every $t\in\mathbb{R}$, the equality $h_{f_t}(\theta)=\sigma_f$ holds for every $\theta\in\mathbb{R}$.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/35_2/142-148.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Convergence of a formal power series and  Gelfond-Leont'ev derivatives</title>
+    <authors>
+      <author>Fedynyak S. I.</author>
+      <author>Sheremeta M. M. </author>
+    </authors>
+    <startPage>149</startPage>
+    <endPage>154</endPage>
+    <keywords>
+      <keyword>formal power series</keyword>
+      <keyword>formal power series </keyword>
+    </keywords>
+    <abstract>Given a formal power series, we establish conditions on the formal power seriess under which the series represents a function analytic in the disk $\{z\colon |z|\leq R\}, R\in (0, +\infty].$ We also give a survey of well-know results for the case $R=+\infty$.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/35_2/149-154.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Growth of the Poisson-Stieltjes integrals in a half-plane (in Ukrainian)</title>
+    <authors>
+      <author>Kovalyk V. V.</author>
+      <author>Chyzhykov I. E. </author>
+    </authors>
+    <startPage>155</startPage>
+    <endPage>164</endPage>
+    <keywords>
+      <keyword>harmonic function</keyword>
+      <keyword>Poisson-Stieltjes-type  integral  </keyword>
+    </keywords>
+    <abstract>Let $u$ be a harmonic function represented by the Poisson-Stieltjes-type  integral in the upper half-plane. We find necessary and sufficient conditions for the relationship $ M_\infty(y, u):=\sup_{x\in  \mathbb{R}} |u(x+iy)|=O(y^{-\alpha})$, $\alpha&gt;0$, $y\downarrow 0$.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/35_2/155-164.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>The comparability some generalization of the inverse Bernstein theorem to F-spases (in Ukrainian)</title>
+    <authors>
+      <author>Voloshyn H. A.</author>
+      <author>Maslyuchenko V. K. </author>
+    </authors>
+    <startPage>165</startPage>
+    <endPage>171</endPage>
+    <keywords>
+      <keyword>Bernstein theorem</keyword>
+      <keyword>Svedov's
+generalization </keyword>
+    </keywords>
+    <abstract>We shove that our generalization of the inverse Bernstein theorem to $F$-spases and Svedov's generalization of this theorem are not comparable.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/35_2/165-171.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Almost antiproximinal sets in $L_1$</title>
+    <authors>
+      <author>Kholomenyuk V. A.</author>
+      <author>Mykhaylyuk V. V. </author>
+    </authors>
+    <startPage>172</startPage>
+    <endPage>180</endPage>
+    <keywords>
+      <keyword>almost antiproximinal
+set</keyword>
+      <keyword>space $L_1$ </keyword>
+    </keywords>
+    <abstract>We introduce a notion of almost antiproximinality of sets in the space $L_1$ which is a weaken- ing of the notion of antiproximinality. Also we investigate properties of almost antiproximinal sets and establish a method of construction of almost antiproximinal sets.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/35_2/172-180.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Operator analogue of Bertrand’s test (in Ukrainian)</title>
+    <authors>
+      <author>Slyusarchuk V. Yu. </author>
+    </authors>
+    <startPage>181</startPage>
+    <endPage>195</endPage>
+    <keywords>
+      <keyword>Bertrand’s test</keyword>
+      <keyword>convergence of operator series </keyword>
+    </keywords>
+    <abstract>We obtain the conditions for convergence of operator series.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/35_2/181-195.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>On normality of spaces of scatteredly continuous maps</title>
+    <authors>
+      <author>Bokalo B. M.</author>
+      <author>Kolos N. M. </author>
+    </authors>
+    <startPage>196</startPage>
+    <endPage>204</endPage>
+    <keywords>
+      <keyword>topological spaces</keyword>
+      <keyword>pointwise convergence </keyword>
+    </keywords>
+    <abstract>A map $f\colon X\rightarrow Y$ between topological spaces is called scatteredly continuous if for each non-empty subspace $A\subset X$ the restriction $f|_{A}$ has a point of continuity. By $SC_p (X)$ we denote the space of all scatteredly continuous real-valued functions on $X$ endowed with the topology of pointwise convergence. In this paper we focus on the normality of the space $SC_p(X)$. Particularly, it is proved that if the function space $SC_p(X)$ is normal, then all compact and all scattered subspaces of $X$ are countable. </abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/35_2/196-204.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Decomposition semi-continuous functions into sum of quasi-continuous functions and the oscillation of almost continuous functions (in Ukrainian)</title>
+    <authors>
+      <author>Maslyuchenko O. V. </author>
+    </authors>
+    <startPage>205</startPage>
+    <endPage>214</endPage>
+    <keywords>
+      <keyword>semi-continuous function</keyword>
+      <keyword>almost continuous function </keyword>
+    </keywords>
+    <abstract>We prove that every semi-continuous function on a metrizable space is decompose into sum of two quasi-continuous functions. And then we obtain a new characterization of the oscillation of almost continuous functions.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/35_2/205-214.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Extending pairs of metrics</title>
+    <authors>
+      <author>Stasyuk I. Z.</author>
+      <author>Tymchatyn  E. D. </author>
+    </authors>
+    <startPage>215</startPage>
+    <endPage>224</endPage>
+    <keywords>
+      <keyword>Hausdorff
+metric</keyword>
+      <keyword>ultrametric </keyword>
+    </keywords>
+    <abstract>We consider the problem of extension of pairs of continuous and bounded, partial metrics which agree on the non-empty intersections of their domains which are closed and bounded subsets of an arbitrary but fixed metric space. Two pairs of such metrics are close if their corresponding graphs are close and if the intersections of their domains are close in the Hausdorff metric. If, besides, these metrics are uniformly continuous on the intersections of their domains then there is a continuous positive homogeneous operator extending each such a pair of partial metrics to a continuous metric on the union of their domains. We prove that, in general, there is no subadditive extension operator (continuous or not) for such pairs of metrics. We provide examples showing to what extent our results are sharp and we obtain analogous results for ultrametrics.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/35_2/215-224.pdf</fullTextUrl>
+  </record>
+</records>

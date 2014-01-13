@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='utf-8'?>
+<records>
+  <record>
+    <title>Kaleidoscopical configurations in groups</title>
+    <authors>
+      <author>Protasov I. V.</author>
+      <author>Slobodianiuk S. </author>
+    </authors>
+    <startPage>115</startPage>
+    <endPage>118</endPage>
+    <keywords>
+      <keyword>kaleidoscopical configuration</keyword>
+      <keyword>T-sequence</keyword>
+      <keyword>rigid subset </keyword>
+    </keywords>
+    <abstract>A subset $A$ of a group $G$ is called a kaleidoscopical configuration if there exists a surjective coloring $\chi\colon X\rightarrow \kappa$ such that the restriction $\chi|gA$ is a bijection for each $g\in G$. We give two topological constructions of kaleidoscopical configurations and show that each infinite subset of an Abelian group contains an infinite kaleidoscopical configuration.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/36_2/115-118.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>On some modules over group rings of locally soluble groups   with rank restrictions on subgroups</title>
+    <authors>
+      <author>Dashkova O. Yu. </author>
+    </authors>
+    <startPage>119</startPage>
+    <endPage>127</endPage>
+    <keywords>
+      <keyword>noetherian $R$-module</keyword>
+      <keyword>locally soluble group</keyword>
+      <keyword>group ring </keyword>
+    </keywords>
+    <abstract>The author studies an $\bf R$$G$-module $A$ such that $\bf R$ is  an integral domain, $G$ is a locally soluble group of  infinite section $p$-rank (or infinite 0-rank), $C_{G}(A)=1$, $A/C_{A}(G)$ is not a noetherian $\bf R$-module, and for every proper subgroup $H$ of infinite section $p$-rank  (or infinite 0-rank respectively), the quotient module $A/C_{A}(H)$ is a noetherian $\bf R$-module. It is proved that under the above conditions,  $G$ is a  soluble group.  Some properties of soluble groups of this type are obtained.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/36_2/119-127.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>An analytic continuation of random analytic functions (in Ukrainian)</title>
+    <authors>
+      <author>Filevych P. V. </author>
+    </authors>
+    <startPage>128</startPage>
+    <endPage>132</endPage>
+    <keywords>
+      <keyword>random analytic function</keyword>
+      <keyword>singular point</keyword>
+      <keyword>analytic continuation</keyword>
+      <keyword>natural boundary </keyword>
+    </keywords>
+    <abstract>Let $(\eta_n(\omega))$ be a sequence of independent random variables such that $\eta_n(\omega)$ takes the values $-1$ and $1$ with the probabilities $p_n$ and $1-p_n$, respectively. Put $q_n=\min\{p_n,1-p_n\}$. Then, for each complex sequence $(a_n)$ such that $\varlimsup\limits_{n\to\infty}\root{n}\of{|a_n|}=1$, the circle  $\{z\in\mathbb{C}\colon |z|=1\}$ is the natural boundary for the function $f_\omega(z)=\sum_{n=0}^\infty a_n\eta_n(\omega)z^n$ almost surely if and only if the condition $\sum_{k=0}^\infty q_{n_k}=+\infty$ holds for every increasing sequence $(n_k)$ of nonnegative integers such that $\varliminf\limits_{k\to\infty}\frac{n_k}k</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/36_2/128-132.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>On entire solutions with a two-member recurrent formula for  Taylor's coefficients of linear differential equations</title>
+    <authors>
+      <author>Mahola Ya. S. </author>
+    </authors>
+    <startPage>133</startPage>
+    <endPage>141</endPage>
+    <keywords>
+      <keyword>entire function</keyword>
+      <keyword>linear differential equations</keyword>
+      <keyword>convexity</keyword>
+      <keyword>close-to-convexity</keyword>
+      <keyword>regular growth </keyword>
+    </keywords>
+    <abstract>It is proved that the differential equation $$z^nw^{(n)}+(a_1^{(n-1)}z+a_2^{(n-1)})z^{n-1}w^{(n-1)}+ \sum_{k=0}^{n-2}{(a_{n-1-k}^{(k)}z^2+a_{n-k}^{(k)}z+a_{n+1-k}^{(k)})z^kw^{(k)}}=0$$ has an entire solution $f$ with a two-member recurrent formula for its Taylor's coefficients. The growth of such function $f$ is studied. The conditions for coefficients $a_k^{(j)}$ are obtained, under which the solution $f$ is convex or close-to-convex in $\mathbb{D}=\{z:|z|</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/36_2/133-141.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Certain classes of harmonic functions pertaining to  special functions</title>
+    <authors>
+      <author>Murugusundaramoorthy G.</author>
+      <author>Vijaya K.</author>
+      <author>Thilagavathi K. </author>
+    </authors>
+    <startPage>142</startPage>
+    <endPage>151</endPage>
+    <keywords>
+      <keyword>harmonic univalent starlike functions</keyword>
+      <keyword>Dziok-Srivastava operator</keyword>
+      <keyword>extreme points</keyword>
+      <keyword>convolution </keyword>
+    </keywords>
+    <abstract>Making use of generalized Dziok-Srivastava operator we introduced a new class of complexvalued harmonic functions which are orientation preserving, univalent and starlike in the unit disc. We investigate the coefficient bounds, distortion inequalities, extreme points and inclusion results for the generalized class of functions.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/36_2/142-151.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Boundedness of  $l$-index of analytic curves</title>
+    <authors>
+      <author>Bordulyak M. T.</author>
+      <author>Sheremeta M. M. </author>
+    </authors>
+    <startPage>152</startPage>
+    <endPage>161</endPage>
+    <keywords>
+      <keyword>analytic function, analytic curve</keyword>
+      <keyword>bounded l-index</keyword>
+      <keyword>system of linear differential equations </keyword>
+    </keywords>
+    <abstract>We introduce a concept of an analytic curve of bounded l-index and investigate possible growth of such curves. Moreover, l-index boundedness of analytic curves satisfying linear dif- ferential equations is investigated.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/36_2/152-161.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Maximum modulus of entire functions of two variables and arguments of coefficients of double power series</title>
+    <authors>
+      <author>Skaskiv O. B.</author>
+      <author>Kuryliak A. O. </author>
+    </authors>
+    <startPage>162</startPage>
+    <endPage>175</endPage>
+    <keywords>
+      <keyword>entire functions</keyword>
+      <keyword>power series</keyword>
+      <keyword>maximum modulus </keyword>
+    </keywords>
+    <abstract>Let $\mathcal{L}$ be the class of positive continuous functions on $(-\infty,+\infty)$ and let $\mathcal{L}_+^2$ be the class of positive continuous  increasing with respect to each variable functions $\gamma$ in $\mathbb{R}^2$ such that $ \gamma(r_1,r_2)\to +\infty $ as $r_1+r_2\to+\infty.$ We prove the following} statement: for all entire functions of the form $ f(z_1,z_2)=\sum_{n+m=0}^{+\infty}a_{nm}z_1^nz_2^m$ such that $ |a_{nm}|\leq\exp\{-(n+m)\psi(n,m)\} \mbox{ for } n+m\geq k_0(f)$ and functions $f(z_1,1), f(1,z_2)$ are transcendent, $ \psi\in\mathcal{L}_+^2, $ the inequality $$ \mathfrak{M}_f(r_1,r_2)=O(M_f(r_1,r_2) h(\ln M_f(r_1,r_2))),\ h\in\mathcal{L},\  r^{\vee}=\min\{r_1,r_2\}\to+\infty, $$ holds where $M_f(r_1,r_2)=\max\{|f(z_1,z_2)|\colon |z_1|=r_1,|z_2|=r_2\},$\ $\mathfrak{M}_f(r_1,r_2)=\sum_{n+m=0}^{+\infty}|a_{nm}|\times$ $\times r_1^nr_2^m,$ if and only if \begin{equation*} (\forall\gamma\in\mathcal{L}_+^2)\colon\ \sqrt{r_1r_2}=O\big(h(\gamma(r_1,r_2)\psi(r_1,r_2))\big), \ r^{\vee}\to+\infty. \end{equation*}</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/36_2/162-175.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Conditions for the existence and asymptotic of a class of solutions of essential nonlinear differential equations of the second order (in Russian)</title>
+    <authors>
+      <author>Kozma А. A. </author>
+    </authors>
+    <startPage>176</startPage>
+    <endPage>187</endPage>
+    <keywords>
+      <keyword>differential equation</keyword>
+      <keyword>asymptotic representation of solution </keyword>
+    </keywords>
+    <abstract>We consider the ordinary differential equation of the second order containing in the righthand side the sum of nonlinearities correctly varying concerning unknown function and its derivative of the first order. Necessary and sufficient conditions of existence of a wide class of monotone solutions, and exact asymptotic representations of solutions from the given class in a neighborhood of a singular point are established.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/36_2/176-187.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Operator analogues of Kummer’s test (in Ukrainian)</title>
+    <authors>
+      <author>Slyusarchuk V. Yu. </author>
+    </authors>
+    <startPage>188</startPage>
+    <endPage>196</endPage>
+    <keywords>
+      <keyword>operator series</keyword>
+      <keyword>Kummer’s test </keyword>
+    </keywords>
+    <abstract>We obtain the conditions for convergence of operator series.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/36_2/188-196.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Under a suitable renorming every nonreflexive Banach space has a finite subset without a Steiner point</title>
+    <authors>
+      <author>Kadets V. </author>
+    </authors>
+    <startPage>197</startPage>
+    <endPage>200</endPage>
+    <keywords>
+      <keyword>Steiner point of a finite set</keyword>
+      <keyword>Banach space</keyword>
+      <keyword>equivalent norm </keyword>
+    </keywords>
+    <abstract>We present a refinement of the recent Borodin's example of a finite set without a Steiner point. Namely, we show that under a suitable renorming such an example exists in every nonreflexive Banach space.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/36_2/197-200.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Accretive and nonnegative perturbations of an abstract analogy for the operator of the third boundary problem and corresponding variational problems (in Ukrainian)</title>
+    <authors>
+      <author>Kachurivska H. M.</author>
+      <author>Storozh O. G. </author>
+    </authors>
+    <startPage>201</startPage>
+    <endPage>212</endPage>
+    <keywords>
+      <keyword>Hilbert space</keyword>
+      <keyword>operator</keyword>
+      <keyword>nonnegative</keyword>
+      <keyword>extension </keyword>
+    </keywords>
+    <abstract>In the paper the role of initial object is played by the positively definite operator L0 acting in a Hilbert space H. The main object of the investigation is operator L~ B: It is interpreted as a perturbation of some proper extension of L0. Using methods of the extension theory the criteria of maximal accretivity and maximal nonnegativity for L~ B are established. In the case when L~ B is a positively definite operator, its energetic space is constructed and the solvability of corresponding variational problem is proved. Moreover, the situation when L0 is minimal differential operator generated in the space of infinite-dimensional vector-functions by the Sturm-Liouville differential expression is considered.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/36_2/201-212.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Two-point method for solving nonlinear equation with nondifferentiable operator (in Ukrainian)</title>
+    <authors>
+      <author>Shakhno S. M.</author>
+      <author>Yarmola H. P. </author>
+    </authors>
+    <startPage>213</startPage>
+    <endPage>220</endPage>
+    <keywords>
+      <keyword>nonlinear equation</keyword>
+      <keyword>differential-difference method</keyword>
+      <keyword>semilocal convergence</keyword>
+      <keyword>non-differentiable
+operator </keyword>
+    </keywords>
+    <abstract>In the paper we study a combined differential-difference method for solving nonlinear equations with non-differentiable operator. The semilocal convergence of the method is investigated and the order of convergence is established.</abstract>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/36_2/213-220.pdf</fullTextUrl>
+  </record>
+  <record>
+    <title>Index, 2011</title>
+    <startPage>221</startPage>
+    <endPage>224</endPage>
+    <fullTextUrl>http://matstud.org.ua/texts/2011/36_2/221-224.pdf</fullTextUrl>
+  </record>
+</records>
